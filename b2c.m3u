@@ -2,1297 +2,1297 @@
     {
         "id": "105",
         "name": "Box Hits (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ce/ee/e8/82/2e/ee/cee82-pboxhitshd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ce\/ee\/e8\/82\/2e\/ee\/cee82-pboxhitshd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv564&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HtwzDk4N",
-        "TimeUpdate": "2026-08-19 11:45:35"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv564&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HtwzDk4N",
+        "TimeUpdate": "2026-08-19 14:49:17"
     },
     {
         "id": "110",
         "name": "HTV3 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b4\/4c\/c3\/36\/68\/86\/b4c36-phtv3hd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv075&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624153&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ghzgqoW9",
-        "TimeUpdate": "2026-08-19 11:47:19"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv075&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624153&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ghzgqoW9",
+        "TimeUpdate": "2026-08-19 14:49:18"
     },
     {
         "id": "114",
-        "name": "Kh\u00e1nh H\u00f2a",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/7e/e2/2d/d4/45/56/7e2d4-pkhnhha-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv203&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T03m6Ob5sz",
-        "TimeUpdate": "2026-08-19 11:45:35"
+        "name": "Khánh Hòa",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/7e\/e2\/2d\/d4\/45\/56\/7e2d4-pkhnhha-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv203&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T03m6Ob5sz",
+        "TimeUpdate": "2026-08-19 14:49:18"
     },
     {
         "id": "115",
         "name": "BTV6 - Shopping 24h",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/77/7d/db/b3/3f/fa/77db3-pbtv6shopping24h-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/77\/7d\/db\/b3\/3f\/fa\/77db3-pbtv6shopping24h-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv514&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0vDAyBbcW",
-        "TimeUpdate": "2026-08-19 11:45:36"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv514&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0vDAyBbcW",
+        "TimeUpdate": "2026-08-19 14:49:18"
     },
     {
         "id": "116",
-        "name": "L\u00e0o Cai TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/e6/64/49/95/59/99/e6495-plocaitv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv212&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T00rrxNX97",
-        "TimeUpdate": "2026-08-19 11:45:36"
+        "name": "Lào Cai TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/e6\/64\/49\/95\/59\/99\/e6495-plocaitv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv212&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T00rrxNX97",
+        "TimeUpdate": "2026-08-19 14:49:18"
     },
     {
         "id": "12",
-        "name": "HTVC Ca Nh\u1ea1c (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b8/8b/bd/da/ae/eb/b8bda-phtvccanhchd-channel-unkn.png",
+        "name": "HTVC Ca Nhạc (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b8\/8b\/bd\/da\/ae\/eb\/b8bda-phtvccanhchd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv072&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T03WpX7ouv",
-        "TimeUpdate": "2026-08-19 11:45:36"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv072&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T03WpX7ouv",
+        "TimeUpdate": "2026-08-19 14:49:19"
     },
     {
         "id": "121",
-        "name": "Qu\u1ea3ng Tr\u1ecb HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/d5/52/2d/d6/6b/b1/d52d6-pqungtrhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv206&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cpLKrOY7",
-        "TimeUpdate": "2026-08-19 11:45:37"
+        "name": "Quảng Trị HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/d5\/52\/2d\/d6\/6b\/b1\/d52d6-pqungtrhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv206&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cpLKrOY7",
+        "TimeUpdate": "2026-08-19 14:49:19"
     },
     {
         "id": "123",
-        "name": "C\u00e0 Mau",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/bf/f6/69/9e/e0/0b/bf69e-pcmau-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv200&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sd7G0U0a",
-        "TimeUpdate": "2026-08-19 11:45:37"
+        "name": "Cà Mau",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/bf\/f6\/69\/9e\/e0\/0b\/bf69e-pcmau-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv200&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sd7G0U0a",
+        "TimeUpdate": "2026-08-19 14:49:19"
     },
     {
         "id": "125",
-        "name": "L\u00e2m \u0110\u1ed3ng TV2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/dc/ce/e7/74/45/5a/dce74-plmngtv2-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv218&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0exbjD4OX",
-        "TimeUpdate": "2026-08-19 11:45:37"
+        "name": "Lâm Đồng TV2",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/dc\/ce\/e7\/74\/45\/5a\/dce74-plmngtv2-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv218&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0exbjD4OX",
+        "TimeUpdate": "2026-08-19 14:49:19"
     },
     {
         "id": "127",
         "name": "HTV2 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a0\/07\/73\/39\/9e\/e6\/a0739-phtv2hd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv272&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TwLyDbKb",
-        "TimeUpdate": "2026-08-19 11:45:37"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv272&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TwLyDbKb",
+        "TimeUpdate": "2026-08-19 14:49:20"
     },
     {
         "id": "128",
         "name": "HTV7 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/65/5a/a5/51/11/13/65a51-phtv7hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/65\/5a\/a5\/51\/11\/13\/65a51-phtv7hd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv273&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T04qO3At3J",
-        "TimeUpdate": "2026-08-19 11:45:38"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv273&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624153&pnode=172.16.65.68&isp=vnpt&rkey=454368T0boDLqHIn",
+        "TimeUpdate": "2026-08-19 14:49:20"
     },
     {
         "id": "13",
-        "name": "HTVC Du L\u1ecbch Cu\u1ed9c S\u1ed1ng (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/8d/d4/4a/a5/5f/fb/8d4a5-phtvcdulchcucsnghd-channel-unkn.png",
+        "name": "HTVC Du Lịch Cuộc Sống (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/8d\/d4\/4a\/a5\/5f\/fb\/8d4a5-phtvcdulchcucsnghd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv069&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=17216241107&pnode=172.16.65.68&isp=vnpt&rkey=454368T08nuzBcDD",
-        "TimeUpdate": "2026-08-19 11:45:38"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv069&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=17216241107&pnode=172.16.65.68&isp=vnpt&rkey=454368T08nuzBcDD",
+        "TimeUpdate": "2026-08-19 14:49:20"
     },
     {
         "id": "14",
-        "name": "HTVC Gia \u0110\u00ecnh (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ba/a1/1c/c4/4a/a9/ba1c4-phtvcgianhhd-channel-unkn.png",
+        "name": "HTVC Gia Đình (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ba\/a1\/1c\/c4\/4a\/a9\/ba1c4-phtvcgianhhd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv073&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ZPx8fonp",
-        "TimeUpdate": "2026-08-19 11:45:38"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv073&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ZPx8fonp",
+        "TimeUpdate": "2026-08-19 14:49:20"
     },
     {
         "id": "141",
-        "name": "Cao B\u1eb1ng TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a0/0d/d4/4e/e8/8d/a0d4e-pcaobngtv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv356&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0JDy77NE6",
-        "TimeUpdate": "2026-08-19 11:45:38"
+        "name": "Cao Bằng TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a0\/0d\/d4\/4e\/e8\/8d\/a0d4e-pcaobngtv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv356&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0JDy77NE6",
+        "TimeUpdate": "2026-08-19 14:49:21"
     },
     {
         "id": "154",
-        "name": "Tuy\u00ean Quang TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b6/61/1c/cf/fe/e0/b61cf-ptuynquangtv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv368&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T00A7KMQSo",
-        "TimeUpdate": "2026-08-19 11:45:39"
+        "name": "Tuyên Quang TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b6\/61\/1c\/cf\/fe\/e0\/b61cf-ptuynquangtv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv368&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T00A7KMQSo",
+        "TimeUpdate": "2026-08-19 14:49:21"
     },
     {
         "id": "156",
-        "name": "Lai Ch\u00e2u TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/17/75/5b/b5/54/4f/175b5-plaichutv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv361&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T0SU17TFp8",
-        "TimeUpdate": "2026-08-19 11:45:39"
+        "name": "Lai Châu TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/17\/75\/5b\/b5\/54\/4f\/175b5-plaichutv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv361&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T0SU17TFp8",
+        "TimeUpdate": "2026-08-19 14:49:21"
     },
     {
         "id": "157",
-        "name": "S\u01a1n La TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/bb/b7/75/54/4d/df/bb754-psnlatv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv359&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eEmiwVNx",
-        "TimeUpdate": "2026-08-19 11:45:39"
+        "name": "Sơn La TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/bb\/b7\/75\/54\/4d\/df\/bb754-psnlatv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv359&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eEmiwVNx",
+        "TimeUpdate": "2026-08-19 14:49:21"
     },
     {
         "id": "158",
-        "name": "\u0110i\u1ec7n Bi\u00ean TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/18/8b/bd/d3/30/0a/18bd3-pinbintv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv362&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0zE4wvM3k",
-        "TimeUpdate": "2026-08-19 11:45:39"
+        "name": "Điện Biên TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/18\/8b\/bd\/d3\/30\/0a\/18bd3-pinbintv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv362&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0zE4wvM3k",
+        "TimeUpdate": "2026-08-19 14:49:22"
     },
     {
         "id": "16",
-        "name": "HTV Ph\u1ee5 N\u1eef (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/de/ea/ad/d8/86/64/dead8-phtvphnhd-channel-unkn.png",
+        "name": "HTV Phụ Nữ (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/de\/ea\/ad\/d8\/86\/64\/dead8-phtvphnhd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv070&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T06kX0Q52C",
-        "TimeUpdate": "2026-08-19 11:45:40"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv070&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T06kX0Q52C",
+        "TimeUpdate": "2026-08-19 14:49:22"
     },
     {
         "id": "160",
-        "name": "Ninh B\u00ecnh TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/e9/97/7f/fb/be/e9/e97fb-pninhbnhtv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv257&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg33.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0rKBtAyV9",
-        "TimeUpdate": "2026-08-19 11:45:40"
+        "name": "Ninh Bình TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/e9\/97\/7f\/fb\/be\/e9\/e97fb-pninhbnhtv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv257&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg33.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0rKBtAyV9",
+        "TimeUpdate": "2026-08-19 14:49:22"
     },
     {
         "id": "162",
         "name": "DakLak TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/58/87/7e/e1/12/2a/587e1-pdaklaktv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv353&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mhREhtO1",
-        "TimeUpdate": "2026-08-19 11:45:40"
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/58\/87\/7e\/e1\/12\/2a\/587e1-pdaklaktv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv353&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mhREhtO1",
+        "TimeUpdate": "2026-08-19 14:49:22"
     },
     {
         "id": "164",
-        "name": "L\u00e2m \u0110\u1ed3ng TV1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/35/54/46/65/5b/be/35465-plmngtv1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv238&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624141&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TB1bgCK4",
-        "TimeUpdate": "2026-08-19 11:45:40"
+        "name": "Lâm Đồng TV1",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/35\/54\/46\/65\/5b\/be\/35465-plmngtv1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv238&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624141&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TB1bgCK4",
+        "TimeUpdate": "2026-08-19 14:49:23"
     },
     {
         "id": "168",
-        "name": "Hu\u1ebf TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/72/2b/ba/a9/99/95/72ba9-phutv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv333&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T0y4gJfMuY",
-        "TimeUpdate": "2026-08-19 11:45:41"
+        "name": "Huế TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/72\/2b\/ba\/a9\/99\/95\/72ba9-phutv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv333&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T0y4gJfMuY",
+        "TimeUpdate": "2026-08-19 14:49:23"
     },
     {
         "id": "172",
         "name": "Gia Lai TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/cf/f4/49/9b/b1/11/cf49b-pgialaitv-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv344&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HCVrVCGa",
-        "TimeUpdate": "2026-08-19 11:45:41"
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/cf\/f4\/49\/9b\/b1\/11\/cf49b-pgialaitv-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv344&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HCVrVCGa",
+        "TimeUpdate": "2026-08-19 14:49:23"
     },
     {
         "id": "173",
         "name": "QuangNgaiTV2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/cb/bc/ce/e7/78/8f/cbce7-pquangngaitv2-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv345&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ELmm320Q",
-        "TimeUpdate": "2026-08-19 11:45:41"
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/cb\/bc\/ce\/e7\/78\/8f\/cbce7-pquangngaitv2-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv345&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ELmm320Q",
+        "TimeUpdate": "2026-08-19 14:49:23"
     },
     {
         "id": "175",
-        "name": "V\u0129nh Long 5",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/60/0b/b4/41/1c/cc/60b41-pvnhlong5-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv335&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=17216241106&pnode=172.16.65.68&isp=vnpt&rkey=454368T0lKkqLcAp",
-        "TimeUpdate": "2026-08-19 11:45:41"
+        "name": "Vĩnh Long 5",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/60\/0b\/b4\/41\/1c\/cc\/60b41-pvnhlong5-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv335&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=17216241106&pnode=172.16.65.68&isp=vnpt&rkey=454368T0lKkqLcAp",
+        "TimeUpdate": "2026-08-19 14:49:24"
     },
     {
         "id": "176",
-        "name": "Kh\u00e1nh H\u00f2a 1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/03/38/81/1b/bf/f2/0381b-pkhnhha1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv328&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0dLMGGWzU",
-        "TimeUpdate": "2026-08-19 11:45:42"
+        "name": "Khánh Hòa 1",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/03\/38\/81\/1b\/bf\/f2\/0381b-pkhnhha1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv328&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0dLMGGWzU",
+        "TimeUpdate": "2026-08-19 14:49:24"
     },
     {
         "id": "18",
-        "name": "HTV Th\u1ec3 thao",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/69/92/28/83/3b/b0/69283-phtvththao-channel-unkn.png",
+        "name": "HTV Thể thao",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/69\/92\/28\/83\/3b\/b0\/69283-phtvththao-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv047&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T06PerlBZs",
-        "TimeUpdate": "2026-08-19 11:45:42"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv047&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T06PerlBZs",
+        "TimeUpdate": "2026-08-19 14:49:24"
     },
     {
         "id": "181",
-        "name": "C\u1ea7n Th\u01a1 TV2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/10/0e/e7/79/97/77/10e79-pcnthtv2-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv329&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T0fZF8fqKs",
-        "TimeUpdate": "2026-08-19 11:45:42"
+        "name": "Cần Thơ TV2",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/10\/0e\/e7\/79\/97\/77\/10e79-pcnthtv2-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv329&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T0fZF8fqKs",
+        "TimeUpdate": "2026-08-19 14:49:25"
     },
     {
         "id": "183",
-        "name": "B\u1eafc Ninh",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/5e/e3/3c/cc/cd/df/5e3cc-pbcninh-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv357&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Nj7NTbjz",
-        "TimeUpdate": "2026-08-19 11:45:43"
+        "name": "Bắc Ninh",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/5e\/e3\/3c\/cc\/cd\/df\/5e3cc-pbcninh-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv357&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Nj7NTbjz",
+        "TimeUpdate": "2026-08-19 14:49:25"
     },
     {
         "id": "185",
         "name": "NHK World Japan HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/6a/a4/46/6f/f0/0f/6a46f-pnhkworldjapanhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/6a\/a4\/46\/6f\/f0\/0f\/6a46f-pnhkworldjapanhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv279&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T07jfNe0yi",
-        "TimeUpdate": "2026-08-19 11:45:43"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv279&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T07jfNe0yi",
+        "TimeUpdate": "2026-08-19 14:49:25"
     },
     {
         "id": "190",
         "name": "HTV9 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/64/4e/ee/ef/fa/a7/64eef-phtv9hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/64\/4e\/ee\/ef\/fa\/a7\/64eef-phtv9hd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv274&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Cn3SPzxG",
-        "TimeUpdate": "2026-08-19 11:45:43"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv274&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Cn3SPzxG",
+        "TimeUpdate": "2026-08-19 14:49:26"
     },
     {
         "id": "191",
         "name": "Outdoor HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a8/8d/d6/68/85/57/a8d68-poutdoorhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a8\/8d\/d6\/68\/85\/57\/a8d68-poutdoorhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv278&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0vvAYBJwO",
-        "TimeUpdate": "2026-08-19 11:45:43"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv278&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0vvAYBJwO",
+        "TimeUpdate": "2026-08-19 14:49:26"
     },
     {
         "id": "193",
-        "name": "L\u1ea1ng S\u01a1n TV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/0a/ab/b3/38/88/8d/0ab38-plngsntvhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv237&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0uUVhyqp0",
-        "TimeUpdate": "2026-08-19 11:45:44"
+        "name": "Lạng Sơn TV HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/0a\/ab\/b3\/38\/88\/8d\/0ab38-plngsntvhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv237&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0uUVhyqp0",
+        "TimeUpdate": "2026-08-19 14:49:27"
     },
     {
         "id": "197",
-        "name": "ON Vie Gi\u1ea3i tr\u00ed",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/4e/e6/62/26/64/4b/4e626-ponviegiitr-channel-unkn.png",
+        "name": "ON Vie Giải trí",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/4e\/e6\/62\/26\/64\/4b\/4e626-ponviegiitr-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv310&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ghh1dEt8",
-        "TimeUpdate": "2026-08-19 11:45:44"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv310&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ghh1dEt8",
+        "TimeUpdate": "2026-08-19 14:49:27"
     },
     {
         "id": "198",
-        "name": "ON Phim Vi\u1ec7t HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/3d/d2/24/49/9e/ed/3d249-ponphimvithd-channel-unkn.png",
+        "name": "ON Phim Việt HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/3d\/d2\/24\/49\/9e\/ed\/3d249-ponphimvithd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv303&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0bztrGvjX",
-        "TimeUpdate": "2026-08-19 11:45:44"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv303&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0bztrGvjX",
+        "TimeUpdate": "2026-08-19 14:49:27"
     },
     {
         "id": "200",
         "name": "ON Sports (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/e9/9e/e5/54/40/01/e9e54-ponsportshd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/e9\/9e\/e5\/54\/40\/01\/e9e54-ponsportshd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.166/drmlive_10.m3u8?c=vstv264&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Ve3WbmFZ",
-        "TimeUpdate": "2026-08-19 11:45:44"
+        "url": "http:\/\/123.29.76.166\/drmlive_10.m3u8?c=vstv264&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Ve3WbmFZ",
+        "TimeUpdate": "2026-08-19 14:49:27"
     },
     {
         "id": "201",
         "name": "ON Vie Dramas",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/78/8e/e2/2c/c2/2f/78e2c-ponviedramas-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/78\/8e\/e2\/2c\/c2\/2f\/78e2c-ponviedramas-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv308&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0jNxWgra2",
-        "TimeUpdate": "2026-08-19 11:45:45"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv308&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0jNxWgra2",
+        "TimeUpdate": "2026-08-19 14:49:28"
     },
     {
         "id": "202",
         "name": "ON E Channel",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/7a/a9/95/5d/d5/5a/7a95d-ponechannel-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/7a\/a9\/95\/5d\/d5\/5a\/7a95d-ponechannel-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv306&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0t52i76HI",
-        "TimeUpdate": "2026-08-19 11:45:45"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv306&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0t52i76HI",
+        "TimeUpdate": "2026-08-19 14:49:28"
     },
     {
         "id": "203",
         "name": "On Sports+ HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/f6/68/85/5b/b0/02/f685b-ponsportshd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/f6\/68\/85\/5b\/b0\/02\/f685b-ponsportshd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv311&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0tHKlm2c9",
-        "TimeUpdate": "2026-08-19 11:45:45"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv311&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0tHKlm2c9",
+        "TimeUpdate": "2026-08-19 14:49:28"
     },
     {
         "id": "204",
         "name": "ON Cine HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/d5/5f/f5/53/33/33/d5f53-poncinehd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/d5\/5f\/f5\/53\/33\/33\/d5f53-poncinehd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv305&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sqsk7Cwk",
-        "TimeUpdate": "2026-08-19 11:45:45"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv305&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sqsk7Cwk",
+        "TimeUpdate": "2026-08-19 14:49:28"
     },
     {
         "id": "205",
         "name": "ON Bibi HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b4/43/30/0a/ac/cb/b430a-ponbibihd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b4\/43\/30\/0a\/ac\/cb\/b430a-ponbibihd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv301&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg30.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0nQKLpGfh",
-        "TimeUpdate": "2026-08-19 11:45:46"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv301&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg30.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0nQKLpGfh",
+        "TimeUpdate": "2026-08-19 14:49:29"
     },
     {
         "id": "206",
         "name": "ON Style TV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/6d/df/f4/4e/ee/e9/6df4e-ponstyletvhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/6d\/df\/f4\/4e\/ee\/e9\/6df4e-ponstyletvhd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv307&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T00oSnmvWS",
-        "TimeUpdate": "2026-08-19 11:45:46"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv307&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T00oSnmvWS",
+        "TimeUpdate": "2026-08-19 14:49:29"
     },
     {
         "id": "208",
         "name": "ON Football (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b7/78/8b/b7/7e/e5/b78b7-ponfootballhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b7\/78\/8b\/b7\/7e\/e5\/b78b7-ponfootballhd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.164/drmlive_10.m3u8?c=vstv265&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ntip1327",
-        "TimeUpdate": "2026-08-19 11:45:46"
+        "url": "http:\/\/123.29.76.164\/drmlive_10.m3u8?c=vstv265&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ntip1327",
+        "TimeUpdate": "2026-08-19 14:49:30"
     },
     {
         "id": "209",
         "name": "ON Trending HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/05/5e/eb/b9/95/55/05eb9-pontrendinghd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/05\/5e\/eb\/b9\/95\/55\/05eb9-pontrendinghd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv309&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T01piwufC3",
-        "TimeUpdate": "2026-08-19 11:45:46"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv309&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T01piwufC3",
+        "TimeUpdate": "2026-08-19 14:49:30"
     },
     {
         "id": "210",
         "name": "VTV1 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/65/51/1d/dd/dd/d0/651dd-pvtv1hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/65\/51\/1d\/dd\/dd\/d0\/651dd-pvtv1hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv261&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VnOPjEOS",
-        "TimeUpdate": "2026-08-19 11:45:47"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv261&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VnOPjEOS",
+        "TimeUpdate": "2026-08-19 14:49:31"
     },
     {
         "id": "211",
         "name": "VTV3 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/20/0e/e9/9b/b6/6b/20e9b-pvtv3hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/20\/0e\/e9\/9b\/b6\/6b\/20e9b-pvtv3hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv262&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0X60XDVEB",
-        "TimeUpdate": "2026-08-19 11:45:47"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv262&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0X60XDVEB",
+        "TimeUpdate": "2026-08-19 14:49:31"
     },
     {
         "id": "212",
         "name": "VTV10 (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/54/46/60/0c/c8/84/5460c-lvtv10hdapp38f4png-content-mytv.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/54\/46\/60\/0c\/c8\/84\/5460c-lvtv10hdapp38f4png-content-mytv.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv263&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T08if3XGWc",
-        "TimeUpdate": "2026-08-19 11:45:47"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv263&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T08if3XGWc",
+        "TimeUpdate": "2026-08-19 14:49:31"
     },
     {
         "id": "227",
         "name": "QPVN (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ef/f6/64/46/6b/be/ef646-pqpvnhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ef\/f6\/64\/46\/6b\/be\/ef646-pqpvnhd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv337&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VqGMEYzJ",
-        "TimeUpdate": "2026-08-19 11:45:47"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv337&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VqGMEYzJ",
+        "TimeUpdate": "2026-08-19 14:49:31"
     },
     {
         "id": "241",
         "name": "ON Vfamily HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/27/7a/a7/71/1f/f0/27a71-ponvfamilyhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/27\/7a\/a7\/71\/1f\/f0\/27a71-ponvfamilyhd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv325&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0bgBErpTr",
-        "TimeUpdate": "2026-08-19 11:45:48"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv325&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0bgBErpTr",
+        "TimeUpdate": "2026-08-19 14:49:32"
     },
     {
         "id": "267",
         "name": "801",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/73/31/17/7d/d8/8b/7317d-lmytv1app4a86png-content-mytv.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/73\/31\/17\/7d\/d8\/8b\/7317d-lmytv1app4a86png-content-mytv.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv801&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T0X0hFrPf6",
-        "TimeUpdate": "2026-08-19 11:45:48"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv801&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T0X0hFrPf6",
+        "TimeUpdate": "2026-08-19 14:49:32"
     },
     {
         "id": "27",
         "name": "ON O2TV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/85/52/20/05/5f/fc/85205-pono2tvhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/85\/52\/20\/05\/5f\/fc\/85205-pono2tvhd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv034&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624144&pnode=172.16.65.68&isp=vnpt&rkey=454368T0MatmTKvJ",
-        "TimeUpdate": "2026-08-19 11:45:48"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv034&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624144&pnode=172.16.65.68&isp=vnpt&rkey=454368T0MatmTKvJ",
+        "TimeUpdate": "2026-08-19 14:49:32"
     },
     {
         "id": "294",
         "name": "DaVinci HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b0/0b/b6/6e/e8/86/b0b6e-pdavincihd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b0\/0b\/b6\/6e\/e8\/86\/b0b6e-pdavincihd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv384&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T0miKb7Emh",
-        "TimeUpdate": "2026-08-19 11:45:48"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv384&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T0miKb7Emh",
+        "TimeUpdate": "2026-08-19 14:49:32"
     },
     {
         "id": "298",
         "name": "Asian Food Network (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/33/33/32/20/08/8d/33320-pasianfoodnetworkhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/33\/33\/32\/20\/08\/8d\/33320-pasianfoodnetworkhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv382&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0jcPQlM1C",
-        "TimeUpdate": "2026-08-19 11:45:49"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv382&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0jcPQlM1C",
+        "TimeUpdate": "2026-08-19 14:49:33"
     },
     {
         "id": "300",
-        "name": "HTV Thu\u1ea7n Vi\u1ec7t HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/8b/b4/4f/fa/aa/a0/8b4fa-phtvthunvithd-channel-unkn.png",
+        "name": "HTV Thuần Việt HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/8b\/b4\/4f\/fa\/aa\/a0\/8b4fa-phtvthunvithd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv386&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ctkJDIdC",
-        "TimeUpdate": "2026-08-19 11:45:49"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv386&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ctkJDIdC",
+        "TimeUpdate": "2026-08-19 14:49:33"
     },
     {
         "id": "302",
         "name": "HTVC Phim HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/0f/f5/59/92/2f/f6/0f592-phtvcphimhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/0f\/f5\/59\/92\/2f\/f6\/0f592-phtvcphimhd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv387&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0U2c7Kazt",
-        "TimeUpdate": "2026-08-19 11:45:49"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv387&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0U2c7Kazt",
+        "TimeUpdate": "2026-08-19 14:49:33"
     },
     {
         "id": "306",
         "name": "KBS World",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/82/2f/fb/b6/6d/d7/82fb6-pkbsworld-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/82\/2f\/fb\/b6\/6d\/d7\/82fb6-pkbsworld-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv393&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0hcrlLUcd",
-        "TimeUpdate": "2026-08-19 11:45:49"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv393&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0hcrlLUcd",
+        "TimeUpdate": "2026-08-19 14:49:33"
     },
     {
         "id": "308",
         "name": "France24",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b2/26/6b/bc/c6/6d/b26bc-pfrance24-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b2\/26\/6b\/bc\/c6\/6d\/b26bc-pfrance24-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv392&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Oi5ybJ6q",
-        "TimeUpdate": "2026-08-19 11:45:50"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv392&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Oi5ybJ6q",
+        "TimeUpdate": "2026-08-19 14:49:34"
     },
     {
         "id": "313",
         "name": "DW-HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/38/85/5a/aa/a1/1b/385aa-pdwhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/38\/85\/5a\/aa\/a1\/1b\/385aa-pdwhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv394&q=p1&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=4&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241105&pnode=172.16.65.68&isp=vnpt&rkey=454368T0tZfZ8YVc",
-        "TimeUpdate": "2026-08-19 11:45:50"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv394&q=p1&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=4&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241105&pnode=172.16.65.68&isp=vnpt&rkey=454368T0tZfZ8YVc",
+        "TimeUpdate": "2026-08-19 14:49:34"
     },
     {
         "id": "321",
         "name": "ABC Australia",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/35/56/6a/ab/b6/61/356ab-pabcaustralia-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/35\/56\/6a\/ab\/b6\/61\/356ab-pabcaustralia-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv410&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mLjwMRls",
-        "TimeUpdate": "2026-08-19 11:45:50"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv410&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mLjwMRls",
+        "TimeUpdate": "2026-08-19 14:49:34"
     },
     {
         "id": "339",
         "name": "VNPT Promo",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/9a/aa/aa/ad/d5/51/9aaad-pknh0-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/9a\/aa\/aa\/ad\/d5\/51\/9aaad-pknh0-channel-unkn.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv519&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0af6lKJIH",
-        "TimeUpdate": "2026-08-19 11:45:50"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv519&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0af6lKJIH",
+        "TimeUpdate": "2026-08-19 14:49:34"
     },
     {
         "id": "34",
         "name": "An Giang 2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/e6/6b/bc/ca/a6/66/e6bca-pangiang2-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv230&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624149&pnode=172.16.65.68&isp=vnpt&rkey=454368T06lIJHaza",
-        "TimeUpdate": "2026-08-19 11:45:51"
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/e6\/6b\/bc\/ca\/a6\/66\/e6bca-pangiang2-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv230&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624149&pnode=172.16.65.68&isp=vnpt&rkey=454368T06lIJHaza",
+        "TimeUpdate": "2026-08-19 14:49:35"
     },
     {
         "id": "349",
         "name": "802",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/83/3f/fb/b2/22/20/83fb2-lmytv2app5b6apng-content-mytv.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/83\/3f\/fb\/b2\/22\/20\/83fb2-lmytv2app5b6apng-content-mytv.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv802&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mthoHbKB",
-        "TimeUpdate": "2026-08-19 11:45:51"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv802&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mthoHbKB",
+        "TimeUpdate": "2026-08-19 14:49:35"
     },
     {
         "id": "35",
         "name": "ANTV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ad/da/a5/5a/a6/69/ada5a-pantv-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ad\/da\/a5\/5a\/a6\/69\/ada5a-pantv-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv053&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0rFwbJN5w",
-        "TimeUpdate": "2026-08-19 11:45:51"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv053&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0rFwbJN5w",
+        "TimeUpdate": "2026-08-19 14:49:35"
     },
     {
         "id": "358",
         "name": "CNBC",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/de/ed/d1/12/27/70/ded12-pcnbc-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/de\/ed\/d1\/12\/27\/70\/ded12-pcnbc-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv441&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T0zd5Fyy1p",
-        "TimeUpdate": "2026-08-19 11:45:51"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv441&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=1721624148&pnode=172.16.65.68&isp=vnpt&rkey=454368T0zd5Fyy1p",
+        "TimeUpdate": "2026-08-19 14:49:35"
     },
     {
         "id": "361",
         "name": "WarnerHD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/6b/ba/a3/36/60/0a/6ba36-pwarnerhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/6b\/ba\/a3\/36\/60\/0a\/6ba36-pwarnerhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv447&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0323PxVlP",
-        "TimeUpdate": "2026-08-19 11:45:52"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv447&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0323PxVlP",
+        "TimeUpdate": "2026-08-19 14:49:36"
     },
     {
         "id": "362",
         "name": "FTV(HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/88/8b/b1/1b/b3/3f/88b1b-pftvhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/88\/8b\/b1\/1b\/b3\/3f\/88b1b-pftvhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv445&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0B79sGwmJ",
-        "TimeUpdate": "2026-08-19 11:45:52"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv445&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0B79sGwmJ",
+        "TimeUpdate": "2026-08-19 14:49:36"
     },
     {
         "id": "363",
         "name": "Discovery(HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/22/22/2d/d1/1c/cb/222d1-pdiscoveryhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/22\/22\/2d\/d1\/1c\/cb\/222d1-pdiscoveryhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv446&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0XNUbhexa",
-        "TimeUpdate": "2026-08-19 11:45:52"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv446&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0XNUbhexa",
+        "TimeUpdate": "2026-08-19 14:49:36"
     },
     {
         "id": "366",
         "name": "Channel News Asia HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/69/91/15/50/06/60/69150-pchannelnewsasiahd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/69\/91\/15\/50\/06\/60\/69150-pchannelnewsasiahd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv449&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=4&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T07AdjOaJI",
-        "TimeUpdate": "2026-08-19 11:45:52"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv449&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=4&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T07AdjOaJI",
+        "TimeUpdate": "2026-08-19 14:49:36"
     },
     {
         "id": "377",
         "name": "VTV2 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/94/40/07/77/7a/a2/94077-pvtv2hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/94\/40\/07\/77\/7a\/a2\/94077-pvtv2hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv451&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T03c2wvzKy",
-        "TimeUpdate": "2026-08-19 11:45:53"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv451&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T03c2wvzKy",
+        "TimeUpdate": "2026-08-19 14:49:37"
     },
     {
         "id": "378",
         "name": "VTV4 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/06/64/46/60/07/7c/06460-pvtv4hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/06\/64\/46\/60\/07\/7c\/06460-pvtv4hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv452&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0h9BZ3Pzk",
-        "TimeUpdate": "2026-08-19 11:45:53"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv452&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0h9BZ3Pzk",
+        "TimeUpdate": "2026-08-19 14:49:37"
     },
     {
         "id": "379",
         "name": "VTV5 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b5\/5c\/cc\/c2\/22\/29\/b5cc2-pvtv5hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv453&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0pNJ1NHCa",
-        "TimeUpdate": "2026-08-19 11:45:53"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv453&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0pNJ1NHCa",
+        "TimeUpdate": "2026-08-19 14:49:37"
     },
     {
         "id": "380",
         "name": "VTV8 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/68/8a/a5/55/5e/ef/68a55-pvtv8hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/68\/8a\/a5\/55\/5e\/ef\/68a55-pvtv8hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv454&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0gndmxyuS",
-        "TimeUpdate": "2026-08-19 11:45:53"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv454&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0gndmxyuS",
+        "TimeUpdate": "2026-08-19 14:49:37"
     },
     {
         "id": "381",
         "name": "VTV9 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ee/ed/db/b1/1b/bb/eedb1-pvtv9hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ee\/ed\/db\/b1\/1b\/bb\/eedb1-pvtv9hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv455&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0MapccFwe",
-        "TimeUpdate": "2026-08-19 11:45:54"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv455&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0MapccFwe",
+        "TimeUpdate": "2026-08-19 14:49:38"
     },
     {
         "id": "384",
         "name": "HTVC Plus HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/f0/0a/a3/31/1f/f3/f0a31-phtvcplushd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/f0\/0a\/a3\/31\/1f\/f3\/f0a31-phtvcplushd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv097&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T02AzZyLFR",
-        "TimeUpdate": "2026-08-19 11:45:54"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv097&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T02AzZyLFR",
+        "TimeUpdate": "2026-08-19 14:49:38"
     },
     {
         "id": "385",
         "name": "HBO HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ee/e3/3d/d4/42/2e/ee3d4-phbohd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ee\/e3\/3d\/d4\/42\/2e\/ee3d4-phbohd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv459&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cXqtUjfd",
-        "TimeUpdate": "2026-08-19 11:45:54"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv459&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cXqtUjfd",
+        "TimeUpdate": "2026-08-19 14:49:38"
     },
     {
         "id": "386",
         "name": "Cinemax HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/d5/5e/e3/3f/f1/16/d5e3f-pcinemaxhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/d5\/5e\/e3\/3f\/f1\/16\/d5e3f-pcinemaxhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv460&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T0m151Myye",
-        "TimeUpdate": "2026-08-19 11:45:54"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv460&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T0m151Myye",
+        "TimeUpdate": "2026-08-19 14:49:38"
     },
     {
         "id": "387",
         "name": "AXN HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/18/85/5c/c3/3f/f4/185c3-paxnhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/18\/85\/5c\/c3\/3f\/f4\/185c3-paxnhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv463&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0SOMj5Abg",
-        "TimeUpdate": "2026-08-19 11:45:55"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv463&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0SOMj5Abg",
+        "TimeUpdate": "2026-08-19 14:49:39"
     },
     {
         "id": "39",
-        "name": "C\u1ea7n Th\u01a1 TV1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/0c/cd/d5/52/2c/c1/0cd52-pcnthtv1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv234&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0XJf4CQ0m",
-        "TimeUpdate": "2026-08-19 11:45:55"
+        "name": "Cần Thơ TV1",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/0c\/cd\/d5\/52\/2c\/c1\/0cd52-pcnthtv1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv234&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0XJf4CQ0m",
+        "TimeUpdate": "2026-08-19 14:49:39"
     },
     {
         "id": "391",
         "name": "CartoonNetwork HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/df/f4/4f/f3/34/46/df4f3-pcartoonnetworkhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/df\/f4\/4f\/f3\/34\/46\/df4f3-pcartoonnetworkhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv465&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T09F2WUCWj",
-        "TimeUpdate": "2026-08-19 11:45:55"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv465&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241110&pnode=172.16.65.68&isp=vnpt&rkey=454368T09F2WUCWj",
+        "TimeUpdate": "2026-08-19 14:49:39"
     },
     {
         "id": "392",
         "name": "CNN HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b4/4a/a5/5a/ae/e6/b4a5a-pcnnhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b4\/4a\/a5\/5a\/ae\/e6\/b4a5a-pcnnhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv466&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.168&pkg=pkg30.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0nnFTX7hI",
-        "TimeUpdate": "2026-08-19 11:45:55"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv466&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.168&pkg=pkg30.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0nnFTX7hI",
+        "TimeUpdate": "2026-08-19 14:49:39"
     },
     {
         "id": "394",
         "name": "Animal Plannet HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/86/64/4a/a2/2d/dd/864a2-panimalplannethd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/86\/64\/4a\/a2\/2d\/dd\/864a2-panimalplannethd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv467&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.168&pkg=pkg30.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Y0T32ShY",
-        "TimeUpdate": "2026-08-19 11:45:56"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv467&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.168&pkg=pkg30.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Y0T32ShY",
+        "TimeUpdate": "2026-08-19 14:49:39"
     },
     {
         "id": "395",
         "name": "TLC HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/1c/c8/82/29/96/6b/1c829-ptlchd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/1c\/c8\/82\/29\/96\/6b\/1c829-ptlchd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv469&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0GgVrbxay",
-        "TimeUpdate": "2026-08-19 11:45:56"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv469&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0GgVrbxay",
+        "TimeUpdate": "2026-08-19 14:49:40"
     },
     {
         "id": "400",
-        "name": "H\u00e0 N\u1ed9i 1\u00a0 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/4a/ab/b7/75/55/55/4ab75-phni1hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv477&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sHo6HjnQ",
-        "TimeUpdate": "2026-08-19 11:45:56"
+        "name": "Hà Nội 1  HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/4a\/ab\/b7\/75\/55\/55\/4ab75-phni1hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv477&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sHo6HjnQ",
+        "TimeUpdate": "2026-08-19 14:49:40"
     },
     {
         "id": "401",
-        "name": "H\u00e0 N\u1ed9i 2 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/f0/0f/f2/28/88/83/f0f28-phni2hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv478&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0O7Si4WD0",
-        "TimeUpdate": "2026-08-19 11:45:56"
+        "name": "Hà Nội 2 HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/f0\/0f\/f2\/28\/88\/83\/f0f28-phni2hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv478&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0O7Si4WD0",
+        "TimeUpdate": "2026-08-19 14:49:40"
     },
     {
         "id": "404",
-        "name": "\u0110\u1ed3ng Nai 1 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/fc/c0/0c/c8/8a/ae/fc0c8-pngnai1hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv476&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0yvbIyf28",
-        "TimeUpdate": "2026-08-19 11:45:57"
+        "name": "Đồng Nai 1 HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/fc\/c0\/0c\/c8\/8a\/ae\/fc0c8-pngnai1hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv476&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624140&pnode=172.16.65.68&isp=vnpt&rkey=454368T0yvbIyf28",
+        "TimeUpdate": "2026-08-19 14:49:40"
     },
     {
         "id": "405",
-        "name": "H\u00e0 T\u0129nh TV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/2b/bf/f9/94/4f/f2/2bf94-phtnhtvhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv479&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T06Vk0092N",
-        "TimeUpdate": "2026-08-19 11:45:57"
+        "name": "Hà Tĩnh TV HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/2b\/bf\/f9\/94\/4f\/f2\/2bf94-phtnhtvhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv479&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T06Vk0092N",
+        "TimeUpdate": "2026-08-19 14:49:41"
     },
     {
         "id": "406",
-        "name": "Th\u00e1i Nguy\u00ean",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/58/83/39/97/7f/fa/58397-pthinguyn-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv480&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0R6YPDPcZ",
-        "TimeUpdate": "2026-08-19 11:45:57"
+        "name": "Thái Nguyên",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/58\/83\/39\/97\/7f\/fa\/58397-pthinguyn-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv480&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0R6YPDPcZ",
+        "TimeUpdate": "2026-08-19 14:49:41"
     },
     {
         "id": "407",
-        "name": "H\u1ea3i Ph\u00f2ng TV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a9/9c/c3/35/56/6c/a9c35-phiphngtvhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv481&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VZ4dVLaV",
-        "TimeUpdate": "2026-08-19 11:45:57"
+        "name": "Hải Phòng TV HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a9\/9c\/c3\/35\/56\/6c\/a9c35-phiphngtvhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv481&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=1721624159&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VZ4dVLaV",
+        "TimeUpdate": "2026-08-19 14:49:42"
     },
     {
         "id": "408",
-        "name": "H\u01b0ng Y\u00ean TV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/11/14/40/0e/e5/54/1140e-phngyntvhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv482&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0u3U68R6y",
-        "TimeUpdate": "2026-08-19 11:45:58"
+        "name": "Hưng Yên TV HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/11\/14\/40\/0e\/e5\/54\/1140e-phngyntvhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv482&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0u3U68R6y",
+        "TimeUpdate": "2026-08-19 14:49:43"
     },
     {
         "id": "409",
         "name": "QuangNgaiTV1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/8e/e7/78/89/90/04/8e789-pquangngaitv1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv483&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eskHxPkh",
-        "TimeUpdate": "2026-08-19 11:45:58"
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/8e\/e7\/78\/89\/90\/04\/8e789-pquangngaitv1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv483&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624179&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eskHxPkh",
+        "TimeUpdate": "2026-08-19 14:49:43"
     },
     {
         "id": "410",
-        "name": "Ph\u00fa Th\u1ecd TV (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/3d/d4/46/6a/a3/32/3d46a-pphthtvhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv484&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T09YhN0VlS",
-        "TimeUpdate": "2026-08-19 11:45:58"
+        "name": "Phú Thọ TV (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/3d\/d4\/46\/6a\/a3\/32\/3d46a-pphthtvhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv484&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T09YhN0VlS",
+        "TimeUpdate": "2026-08-19 14:49:43"
     },
     {
         "id": "415",
         "name": "ON Golf",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/5a/a1/16/6f/f7/78/5a16f-pongolf-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/5a\/a1\/16\/6f\/f7\/78\/5a16f-pongolf-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv485&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HI66D6f9",
-        "TimeUpdate": "2026-08-19 11:45:58"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv485&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HI66D6f9",
+        "TimeUpdate": "2026-08-19 14:49:43"
     },
     {
         "id": "421",
-        "name": "V\u0129nh Long 1 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/64/47/7e/e1/12/2d/647e1-pvnhlong1hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv486&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0AidOORM1",
-        "TimeUpdate": "2026-08-19 11:45:59"
+        "name": "Vĩnh Long 1 HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/64\/47\/7e\/e1\/12\/2d\/647e1-pvnhlong1hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv486&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0AidOORM1",
+        "TimeUpdate": "2026-08-19 14:49:44"
     },
     {
         "id": "423",
-        "name": "V\u0129nh Long 2 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/71/1b/bb/bd/d2/24/71bbd-pvnhlong2hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv487&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T03nAMbbYv",
-        "TimeUpdate": "2026-08-19 11:45:59"
+        "name": "Vĩnh Long 2 HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/71\/1b\/bb\/bd\/d2\/24\/71bbd-pvnhlong2hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv487&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&profiles=hd,sd&&bhd=7500000&bsd=5500000&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T03nAMbbYv",
+        "TimeUpdate": "2026-08-19 14:49:44"
     },
     {
         "id": "425",
-        "name": "V\u0129nh Long 3 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/8d/d7/7b/b4/40/02/8d7b4-pvnhlong3hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv488&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0UL5v3ejc",
-        "TimeUpdate": "2026-08-19 11:45:59"
+        "name": "Vĩnh Long 3 HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/8d\/d7\/7b\/b4\/40\/02\/8d7b4-pvnhlong3hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv488&q=auto&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&profiles=hd,sd,high,medium&&bhd=7500000&bsd=5500000&bhi=3500000&bme=1500000&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0UL5v3ejc",
+        "TimeUpdate": "2026-08-19 14:49:44"
     },
     {
         "id": "429",
-        "name": "V\u0129nh Long 4 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/f6/6b/b2/29/99/9c/f6b29-pvnhlong4hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv490&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cSe4Adeb",
-        "TimeUpdate": "2026-08-19 11:45:59"
+        "name": "Vĩnh Long 4 HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/f6\/6b\/b2\/29\/99\/9c\/f6b29-pvnhlong4hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv490&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cSe4Adeb",
+        "TimeUpdate": "2026-08-19 14:49:44"
     },
     {
         "id": "433",
         "name": "An Giang 1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/01/14/4e/e0/09/91/014e0-pangiang1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv492&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ZYsaTUv2",
-        "TimeUpdate": "2026-08-19 11:46:00"
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/01\/14\/4e\/e0\/09\/91\/014e0-pangiang1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv492&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ZYsaTUv2",
+        "TimeUpdate": "2026-08-19 14:49:45"
     },
     {
         "id": "435",
         "name": "ON MOVIES (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/e5/5e/ed/df/f8/8e/e5edf-ponmovieshd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/e5\/5e\/ed\/df\/f8\/8e\/e5edf-ponmovieshd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv493&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0hvg4NCkM",
-        "TimeUpdate": "2026-08-19 11:46:00"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv493&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0hvg4NCkM",
+        "TimeUpdate": "2026-08-19 14:49:46"
     },
     {
         "id": "437",
         "name": "ON InfoTV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/2a/a6/69/95/5a/a2/2a695-poninfotvhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/2a\/a6\/69\/95\/5a\/a2\/2a695-poninfotvhd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv494&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T0abdr7SCa",
-        "TimeUpdate": "2026-08-19 11:46:00"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv494&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=17216241103&pnode=172.16.65.68&isp=vnpt&rkey=454368T0abdr7SCa",
+        "TimeUpdate": "2026-08-19 14:49:46"
     },
     {
         "id": "439",
         "name": "ON MUSIC HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/2d/df/fc/c3/35/5d/2dfc3-ponmusichd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/2d\/df\/fc\/c3\/35\/5d\/2dfc3-ponmusichd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv495&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0S0dWRGnY",
-        "TimeUpdate": "2026-08-19 11:46:00"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv495&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0S0dWRGnY",
+        "TimeUpdate": "2026-08-19 14:49:46"
     },
     {
         "id": "441",
         "name": "ON Sports News",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/6b/b3/32/2f/f7/72/6b32f-ponsportsnews-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/6b\/b3\/32\/2f\/f7\/72\/6b32f-ponsportsnews-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv496&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T0CzhcxOFV",
-        "TimeUpdate": "2026-08-19 11:46:01"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv496&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624156&pnode=172.16.65.68&isp=vnpt&rkey=454368T0CzhcxOFV",
+        "TimeUpdate": "2026-08-19 14:49:47"
     },
     {
         "id": "447",
         "name": "803",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/48/8f/f1/13/3c/c7/48f13-lmytv3app1b88png-content-mytv.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/48\/8f\/f1\/13\/3c\/c7\/48f13-lmytv3app1b88png-content-mytv.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv803&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TMPK2uDZ",
-        "TimeUpdate": "2026-08-19 11:46:01"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv803&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TMPK2uDZ",
+        "TimeUpdate": "2026-08-19 14:49:48"
     },
     {
         "id": "449",
         "name": "804",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/6c/c8/8b/ba/a7/72/6c8ba-p804-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/6c\/c8\/8b\/ba\/a7\/72\/6c8ba-p804-channel-unkn.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv804&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0EBOm9LJY",
-        "TimeUpdate": "2026-08-19 11:46:01"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv804&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0EBOm9LJY",
+        "TimeUpdate": "2026-08-19 14:49:48"
     },
     {
         "id": "453",
-        "name": "Ngh\u1ec7 An (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/c0/04/40/0b/ba/ad/c040b-pnghanhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv515&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ptD4Acle",
-        "TimeUpdate": "2026-08-19 11:46:01"
+        "name": "Nghệ An (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/c0\/04\/40\/0b\/ba\/ad\/c040b-pnghanhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv515&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ptD4Acle",
+        "TimeUpdate": "2026-08-19 14:49:48"
     },
     {
         "id": "455",
-        "name": "Qu\u1ea3ng Ninh1 (QTV1) HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b5/51/11/10/0d/d1/b5110-pqungninh1qtv1hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv498&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eazK8Oiv",
-        "TimeUpdate": "2026-08-19 11:46:02"
+        "name": "Quảng Ninh1 (QTV1) HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b5\/51\/11\/10\/0d\/d1\/b5110-pqungninh1qtv1hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv498&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eazK8Oiv",
+        "TimeUpdate": "2026-08-19 14:49:48"
     },
     {
         "id": "457",
-        "name": "Qu\u1ea3ng Ninh3 (QTV3) HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/c5/56/63/32/2a/a0/c5632-pqungninh3qtv3hd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv499&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0SZ8k3wVO",
-        "TimeUpdate": "2026-08-19 11:46:02"
+        "name": "Quảng Ninh3 (QTV3) HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/c5\/56\/63\/32\/2a\/a0\/c5632-pqungninh3qtv3hd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv499&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0SZ8k3wVO",
+        "TimeUpdate": "2026-08-19 14:49:49"
     },
     {
         "id": "459",
         "name": "VTV7 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/31/18/82/2f/fd/dd/3182f-pvtv7hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/31\/18\/82\/2f\/fd\/dd\/3182f-pvtv7hd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv516&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0dImDWANh",
-        "TimeUpdate": "2026-08-19 11:46:02"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv516&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0dImDWANh",
+        "TimeUpdate": "2026-08-19 14:49:49"
     },
     {
         "id": "47",
-        "name": "T\u00e2y Ninh TV",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/6e/ec/c7/7f/f0/06/6ec7f-ptyninh1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv225&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HFiYE6mY",
-        "TimeUpdate": "2026-08-19 11:46:02"
+        "name": "Tây Ninh TV",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/6e\/ec\/c7\/7f\/f0\/06\/6ec7f-ptyninh1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv225&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0HFiYE6mY",
+        "TimeUpdate": "2026-08-19 14:49:50"
     },
     {
         "id": "477",
-        "name": "Thanh H\u00f3a TV HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/54/4c/c8/80/06/6f/54c80-pthanhhatvhd-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv525&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624141&pnode=172.16.65.68&isp=vnpt&rkey=454368T0UPAUGOKD",
-        "TimeUpdate": "2026-08-19 11:46:03"
+        "name": "Thanh Hóa TV HD",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/54\/4c\/c8\/80\/06\/6f\/54c80-pthanhhatvhd-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv525&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624141&pnode=172.16.65.68&isp=vnpt&rkey=454368T0UPAUGOKD",
+        "TimeUpdate": "2026-08-19 14:49:50"
     },
     {
         "id": "479",
         "name": "HTV5",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/3d/d8/80/09/9c/c9/3d809-phtv5-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/3d\/d8\/80\/09\/9c\/c9\/3d809-phtv5-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv527&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=17216241105&pnode=172.16.65.68&isp=vnpt&rkey=454368T00hWlX70D",
-        "TimeUpdate": "2026-08-19 11:46:03"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv527&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=17216241105&pnode=172.16.65.68&isp=vnpt&rkey=454368T00hWlX70D",
+        "TimeUpdate": "2026-08-19 14:49:51"
     },
     {
         "id": "52",
-        "name": "C\u1ea7n Th\u01a1 TV3",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/63/31/1d/da/a9/91/631da-pcnthtv3-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv201&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=1721624141&pnode=172.16.65.68&isp=vnpt&rkey=454368T0RYJ5Ksg5",
-        "TimeUpdate": "2026-08-19 11:46:03"
+        "name": "Cần Thơ TV3",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/63\/31\/1d\/da\/a9\/91\/631da-pcnthtv3-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv201&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=1721624141&pnode=172.16.65.68&isp=vnpt&rkey=454368T0RYJ5Ksg5",
+        "TimeUpdate": "2026-08-19 14:49:51"
     },
     {
         "id": "54",
-        "name": "\u0110\u1ed3ng Th\u00e1p TV2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a9/90/02/2b/b2/26/a902b-pngthptv2-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv228&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VBKVM2kS",
-        "TimeUpdate": "2026-08-19 11:46:03"
+        "name": "Đồng Tháp TV2",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a9\/90\/02\/2b\/b2\/26\/a902b-pngthptv2-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv228&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg30.hni&location=TS&rbk=17216241109&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VBKVM2kS",
+        "TimeUpdate": "2026-08-19 14:49:51"
     },
     {
         "id": "553",
         "name": "DreamWorks (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/c6/62/24/4f/fb/bf/c624f-pdreamworkshd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/c6\/62\/24\/4f\/fb\/bf\/c624f-pdreamworkshd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv551&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T0gR9hEuAa",
-        "TimeUpdate": "2026-08-19 11:46:04"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv551&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T0gR9hEuAa",
+        "TimeUpdate": "2026-08-19 14:49:51"
     },
     {
         "id": "598",
         "name": "ABC Australia",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/52/21/14/49/93/33/52149-pabcaustralia-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/52\/21\/14\/49\/93\/33\/52149-pabcaustralia-channel-unkn.png",
         "NhomKenh": "In The Box",
         "url": "",
-        "TimeUpdate": "2026-08-19 11:46:04"
+        "TimeUpdate": "2026-08-19 14:49:52"
     },
     {
         "id": "6",
         "name": "VTV6 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/4a/a1/1f/fd/de/e3/4a1fd-pvtv6ththaohd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/4a\/a1\/1f\/fd\/de\/e3\/4a1fd-pvtv6ththaohd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv667&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ojnda21b",
-        "TimeUpdate": "2026-08-19 11:46:04"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv667&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.168&pkg=pkg32.hni&location=TS&rbk=1721624142&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ojnda21b",
+        "TimeUpdate": "2026-08-19 14:49:52"
     },
     {
         "id": "60",
-        "name": "\u0110\u00e0 N\u1eb5ng 2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a1/15/56/64/4f/f2/a1564-pnng2-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv226&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0zleVH5c8",
-        "TimeUpdate": "2026-08-19 11:46:05"
+        "name": "Đà Nẵng 2",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a1\/15\/56\/64\/4f\/f2\/a1564-pnng2-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv226&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0zleVH5c8",
+        "TimeUpdate": "2026-08-19 14:49:52"
     },
     {
         "id": "615",
-        "name": "VTV5 T\u00e2y Nam B\u1ed9 (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/48/82/2d/d6/6d/d8/482d6-pvtv5tynambhd-channel-unkn.png",
+        "name": "VTV5 Tây Nam Bộ (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/48\/82\/2d\/d6\/6d\/d8\/482d6-pvtv5tynambhd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv512&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0vf93nW5K",
-        "TimeUpdate": "2026-08-19 11:46:05"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv512&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg32.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T0vf93nW5K",
+        "TimeUpdate": "2026-08-19 14:49:52"
     },
     {
         "id": "616",
         "name": "THP3",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/41/10/06/6b/b3/3b/4106b-pthp3-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv584&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0gPeh6DZb",
-        "TimeUpdate": "2026-08-19 11:46:05"
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/41\/10\/06\/6b\/b3\/3b\/4106b-pthp3-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv584&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0gPeh6DZb",
+        "TimeUpdate": "2026-08-19 14:49:53"
     },
     {
         "id": "63",
         "name": "Arirang",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/43/35/5d/dd/d6/6b/435dd-parirang-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/43\/35\/5d\/dd\/d6\/6b\/435dd-parirang-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv246&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VyV63sjj",
-        "TimeUpdate": "2026-08-19 11:46:05"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv246&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VyV63sjj",
+        "TimeUpdate": "2026-08-19 14:49:53"
     },
     {
         "id": "632",
         "name": "SPOTV (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b4/41/10/03/37/73/b4103-pspotvhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b4\/41\/10\/03\/37\/73\/b4103-pspotvhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.167/drmlive_10.m3u8?c=vstv587&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0aD0WtNSU",
-        "TimeUpdate": "2026-08-19 11:46:05"
+        "url": "http:\/\/123.29.76.167\/drmlive_10.m3u8?c=vstv587&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0aD0WtNSU",
+        "TimeUpdate": "2026-08-19 14:49:53"
     },
     {
         "id": "633",
         "name": "SPOTV2 (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/fd/d5/5f/f9/99/93/fd5f9-pspotv2hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/fd\/d5\/5f\/f9\/99\/93\/fd5f9-pspotv2hd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/drmlive_10.m3u8?c=vstv588&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0KMNsAMAk",
-        "TimeUpdate": "2026-08-19 11:46:06"
+        "url": "http:\/\/123.29.76.164\/drmlive_10.m3u8?c=vstv588&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624157&pnode=172.16.65.68&isp=vnpt&rkey=454368T0KMNsAMAk",
+        "TimeUpdate": "2026-08-19 14:49:53"
     },
     {
         "id": "642",
-        "name": "VTV5 T\u00e2y Nguy\u00ean (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",
+        "name": "VTV5 Tây Nguyên (HD)",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/d4\/46\/61\/1c\/cf\/f6\/d461c-pvtv5tynguynhd-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv589&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Pb4Dk8oL",
-        "TimeUpdate": "2026-08-19 11:46:06"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv589&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Pb4Dk8oL",
+        "TimeUpdate": "2026-08-19 14:49:54"
     },
     {
         "id": "670",
         "name": "806",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/7c/c7/72/2d/d1/1c/7c72d-p806-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/7c\/c7\/72\/2d\/d1\/1c\/7c72d-p806-channel-unkn.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv806&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0uleb8wXc",
-        "TimeUpdate": "2026-08-19 11:46:06"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv806&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=2&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg32.hni&location=TS&rbk=1721624178&pnode=172.16.65.68&isp=vnpt&rkey=454368T0uleb8wXc",
+        "TimeUpdate": "2026-08-19 14:49:54"
     },
     {
         "id": "69",
         "name": "Music Box (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ff/f7/79/9d/da/a0/ff79d-pmusicboxhd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ff\/f7\/79\/9d\/da\/a0\/ff79d-pmusicboxhd-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv562&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0qhxPueRJ",
-        "TimeUpdate": "2026-08-19 11:46:06"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv562&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0qhxPueRJ",
+        "TimeUpdate": "2026-08-19 14:49:54"
     },
     {
         "id": "7",
         "name": "HTV1 HD",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/8c\/ce\/ee\/e7\/79\/98\/8cee7-phtv1hd-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv074&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0szjnWiyD",
-        "TimeUpdate": "2026-08-19 11:46:07"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv074&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T0szjnWiyD",
+        "TimeUpdate": "2026-08-19 14:49:54"
     },
     {
         "id": "736",
         "name": "807",
         "logo": "",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv807&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=17216241105&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cG22HU0d",
-        "TimeUpdate": "2026-08-19 11:46:07"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv807&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=17216241105&pnode=172.16.65.68&isp=vnpt&rkey=454368T0cG22HU0d",
+        "TimeUpdate": "2026-08-19 14:49:55"
     },
     {
         "id": "742",
         "name": "ON Kids (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/70/0e/e0/08/85/52/70e08-ponkidshd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/70\/0e\/e0\/08\/85\/52\/70e08-ponkidshd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv602&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eLsM2FTm",
-        "TimeUpdate": "2026-08-19 11:46:07"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv602&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624177&pnode=172.16.65.68&isp=vnpt&rkey=454368T0eLsM2FTm",
+        "TimeUpdate": "2026-08-19 14:49:55"
     },
     {
         "id": "745",
         "name": "ON Life (HD)",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/8b/be/ea/a8/8a/a9/8bea8-ponlifehd-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/8b\/be\/ea\/a8\/8a\/a9\/8bea8-ponlifehd-channel-unkn.png",
         "NhomKenh": "VTVCab",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv601&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0R6VDh0Bu",
-        "TimeUpdate": "2026-08-19 11:46:07"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv601&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0R6VDh0Bu",
+        "TimeUpdate": "2026-08-19 14:49:55"
     },
     {
         "id": "754",
         "name": "903",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/42/20/0d/d4/4e/ee/420d4-p903-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/42\/20\/0d\/d4\/4e\/ee\/420d4-p903-channel-unkn.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv707&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0kAyXIoZZ",
-        "TimeUpdate": "2026-08-19 11:46:08"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv707&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=2&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0kAyXIoZZ",
+        "TimeUpdate": "2026-08-19 14:49:55"
     },
     {
         "id": "757",
         "name": "904",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/07/71/1a/ae/e8/8e/071ae-p904-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/07\/71\/1a\/ae\/e8\/8e\/071ae-p904-channel-unkn.png",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv708&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0LveKQCNP",
-        "TimeUpdate": "2026-08-19 11:46:08"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv708&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T0LveKQCNP",
+        "TimeUpdate": "2026-08-19 14:49:56"
     },
     {
         "id": "760",
         "name": "905",
         "logo": "",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv709&q=sd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0BaKZ9hHv",
-        "TimeUpdate": "2026-08-19 11:46:08"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv709&q=sd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0BaKZ9hHv",
+        "TimeUpdate": "2026-08-19 14:49:56"
     },
     {
         "id": "763",
         "name": "906",
         "logo": "",
         "NhomKenh": "MyTV",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv710&q=sd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0wFIBlcGi",
-        "TimeUpdate": "2026-08-19 11:46:08"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv710&q=sd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0wFIBlcGi",
+        "TimeUpdate": "2026-08-19 14:49:56"
     },
     {
         "id": "766",
-        "name": "SCTV - Phim T\u1ed5ng h\u1ee3p",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/7a/a5/57/78/8f/f2/7a578-psctvphimtnghp-channel-unkn.png",
+        "name": "SCTV - Phim Tổng hợp",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/7a\/a5\/57\/78\/8f\/f2\/7a578-psctvphimtnghp-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv623&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0demXUFxq",
-        "TimeUpdate": "2026-08-19 11:46:09"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv623&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0demXUFxq",
+        "TimeUpdate": "2026-08-19 14:49:56"
     },
     {
         "id": "769",
         "name": "SCTV1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a4/42/2f/ff/fe/ec/a42ff-psctv1knhhi-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a4\/42\/2f\/ff\/fe\/ec\/a42ff-psctv1knhhi-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv603&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0pJCJ6HwB",
-        "TimeUpdate": "2026-08-19 11:46:09"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv603&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T0pJCJ6HwB",
+        "TimeUpdate": "2026-08-19 14:49:57"
     },
     {
         "id": "772",
         "name": "SCTV2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ee/e1/1d/dd/d0/03/ee1dd-psctv2amc-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ee\/e1\/1d\/dd\/d0\/03\/ee1dd-psctv2amc-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv604&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0bIMZjwJp",
-        "TimeUpdate": "2026-08-19 11:46:09"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv604&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0bIMZjwJp",
+        "TimeUpdate": "2026-08-19 14:49:57"
     },
     {
         "id": "775",
         "name": "SCTV3",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/cc/c4/4b/b5/59/93/cc4b5-psctv3seetv-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/cc\/c4\/4b\/b5\/59\/93\/cc4b5-psctv3seetv-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv605&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624149&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ENOBsq2d",
-        "TimeUpdate": "2026-08-19 11:46:09"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv605&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624149&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ENOBsq2d",
+        "TimeUpdate": "2026-08-19 14:49:57"
     },
     {
         "id": "778",
         "name": "SCTV4",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a7/73/31/17/78/88/a7317-psctv4tnghplestviet-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a7\/73\/31\/17\/78\/88\/a7317-psctv4tnghplestviet-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv606&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624149&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Z32vDpAG",
-        "TimeUpdate": "2026-08-19 11:46:10"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv606&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624149&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Z32vDpAG",
+        "TimeUpdate": "2026-08-19 14:49:58"
     },
     {
         "id": "781",
         "name": "SCTV6",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/7c/c7/7d/da/a3/38/7c7da-psctv6sngnhc-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/7c\/c7\/7d\/da\/a3\/38\/7c7da-psctv6sngnhc-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv607&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0MlHIs7XK",
-        "TimeUpdate": "2026-08-19 11:46:10"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv607&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg31.hni&location=TS&rbk=1721624154&pnode=172.16.65.68&isp=vnpt&rkey=454368T0MlHIs7XK",
+        "TimeUpdate": "2026-08-19 14:49:58"
     },
     {
         "id": "784",
         "name": "SCTV7",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/9d/dc/c2/2b/b3/33/9dc2b-psctv7snkhuvnnghtnghp-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/9d\/dc\/c2\/2b\/b3\/33\/9dc2b-psctv7snkhuvnnghtnghp-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv608&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0BfxPBLay",
-        "TimeUpdate": "2026-08-19 11:46:10"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv608&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.165&pkg=pkg31.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0BfxPBLay",
+        "TimeUpdate": "2026-08-19 14:49:58"
     },
     {
         "id": "787",
         "name": "SCTV8",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ac/cd/d7/71/1c/c4/acd71-psctv8vitv-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ac\/cd\/d7\/71\/1c\/c4\/acd71-psctv8vitv-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv609&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T05IuaVift",
-        "TimeUpdate": "2026-08-19 11:46:10"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv609&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624143&pnode=172.16.65.68&isp=vnpt&rkey=454368T05IuaVift",
+        "TimeUpdate": "2026-08-19 14:49:58"
     },
     {
         "id": "790",
         "name": "SCTV9",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/b4/46/64/4f/fc/c5/b464f-psctv9phimchu-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/b4\/46\/64\/4f\/fc\/c5\/b464f-psctv9phimchu-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv610&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0AR6RyOgu",
-        "TimeUpdate": "2026-08-19 11:46:11"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv610&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg31.hni&location=TS&rbk=1721624152&pnode=172.16.65.68&isp=vnpt&rkey=454368T0AR6RyOgu",
+        "TimeUpdate": "2026-08-19 14:49:58"
     },
     {
         "id": "793",
         "name": "SCTV11",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/e6/68/86/60/04/41/e6860-psctv11tvstar-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/e6\/68\/86\/60\/04\/41\/e6860-psctv11tvstar-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv611&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0nSfYdQqD",
-        "TimeUpdate": "2026-08-19 11:46:11"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv611&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg31.hni&location=TS&rbk=1721624158&pnode=172.16.65.68&isp=vnpt&rkey=454368T0nSfYdQqD",
+        "TimeUpdate": "2026-08-19 14:49:59"
     },
     {
         "id": "796",
         "name": "SCTV12",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/62/26/6b/b7/7c/c0/626b7-psctv12dulch-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/62\/26\/6b\/b7\/7c\/c0\/626b7-psctv12dulch-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv612&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=17216241107&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TIyazDiY",
-        "TimeUpdate": "2026-08-19 11:46:11"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv612&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=17216241107&pnode=172.16.65.68&isp=vnpt&rkey=454368T0TIyazDiY",
+        "TimeUpdate": "2026-08-19 14:49:59"
     },
     {
         "id": "799",
         "name": "SCTV13",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/22/2b/b8/89/9a/a1/22b89-psctv13ladytv-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/22\/2b\/b8\/89\/9a\/a1\/22b89-psctv13ladytv-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv613&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Rbt7bXc9",
-        "TimeUpdate": "2026-08-19 11:46:11"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv613&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624146&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Rbt7bXc9",
+        "TimeUpdate": "2026-08-19 14:50:00"
     },
     {
         "id": "802",
         "name": "SCTV14",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/fb/b0/0b/b0/0d/d8/fb0b0-psctv14phimvitnam-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/fb\/b0\/0b\/b0\/0d\/d8\/fb0b0-psctv14phimvitnam-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv614&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0FJkMu9HK",
-        "TimeUpdate": "2026-08-19 11:46:12"
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv614&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.167&pkg=pkg30.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T0FJkMu9HK",
+        "TimeUpdate": "2026-08-19 14:50:00"
     },
     {
         "id": "805",
         "name": "SCTV16",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/74/46/6f/f8/82/20/746f8-psctv16-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/74\/46\/6f\/f8\/82\/20\/746f8-psctv16-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv616&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mxR4BDad",
-        "TimeUpdate": "2026-08-19 11:46:12"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv616&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T0mxR4BDad",
+        "TimeUpdate": "2026-08-19 14:50:01"
     },
     {
         "id": "808",
         "name": "SCTV18",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/3f/f5/56/64/42/28/3f564-psctv18phim-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/3f\/f5\/56\/64\/42\/28\/3f564-psctv18phim-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv618&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T0NLl4rz37",
-        "TimeUpdate": "2026-08-19 11:46:12"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv618&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.169&pkg=pkg30.hni&location=TS&rbk=1721624155&pnode=172.16.65.68&isp=vnpt&rkey=454368T0NLl4rz37",
+        "TimeUpdate": "2026-08-19 14:50:01"
     },
     {
         "id": "811",
         "name": "SCTV19",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/97/77/70/01/1c/cf/97701-psctv19channelt-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/97\/77\/70\/01\/1c\/cf\/97701-psctv19channelt-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv619&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=17216241107&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sJjxLljb",
-        "TimeUpdate": "2026-08-19 11:46:12"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv619&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=17216241107&pnode=172.16.65.68&isp=vnpt&rkey=454368T0sJjxLljb",
+        "TimeUpdate": "2026-08-19 14:50:01"
     },
     {
         "id": "814",
         "name": "SCTV20",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/89/9b/bb/b5/53/34/89bb5-psctv20itv-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/89\/9b\/bb\/b5\/53\/34\/89bb5-psctv20itv-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv620&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Nt1j46BW",
-        "TimeUpdate": "2026-08-19 11:46:13"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv620&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg32.hni&location=TS&rbk=1721624147&pnode=172.16.65.68&isp=vnpt&rkey=454368T0Nt1j46BW",
+        "TimeUpdate": "2026-08-19 14:50:02"
     },
     {
         "id": "817",
         "name": "SCTV21",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/ff/f4/42/2c/ca/a9/ff42c-psctv21-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/ff\/f4\/42\/2c\/ca\/a9\/ff42c-psctv21-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv621&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T01Dl9RtuG",
-        "TimeUpdate": "2026-08-19 11:46:13"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv621&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.164&pkg=pkg32.hni&location=TS&rbk=17216241104&pnode=172.16.65.68&isp=vnpt&rkey=454368T01Dl9RtuG",
+        "TimeUpdate": "2026-08-19 14:50:02"
     },
     {
         "id": "823",
         "name": "SCTV15 - SSportT2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/6f/fa/a4/45/54/44/6fa45-psctv15ssportt2-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/6f\/fa\/a4\/45\/54\/44\/6fa45-psctv15ssportt2-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv615&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T07MrfslzC",
-        "TimeUpdate": "2026-08-19 11:46:13"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv615&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg30.hni&location=TS&rbk=1721624180&pnode=172.16.65.68&isp=vnpt&rkey=454368T07MrfslzC",
+        "TimeUpdate": "2026-08-19 14:50:02"
     },
     {
         "id": "826",
         "name": "SCTV17 - Ssport",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/40/0b/bc/ca/a1/10/40bca-psctv17ssport-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/40\/0b\/bc\/ca\/a1\/10\/40bca-psctv17ssport-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv617&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T02lVQtHtx",
-        "TimeUpdate": "2026-08-19 11:46:13"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv617&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.175&hc=ctl23&sl=6&drmsrv=ctl23.mytvnet.vn&naddr=123.29.76.164&pkg=pkg30.hni&location=TS&rbk=1721624150&pnode=172.16.65.68&isp=vnpt&rkey=454368T02lVQtHtx",
+        "TimeUpdate": "2026-08-19 14:50:03"
     },
     {
         "id": "829",
         "name": "SCTV 22 - SSportT1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/51/11/15/57/7e/e2/51157-psctv22ssportt1-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/51\/11\/15\/57\/7e\/e2\/51157-psctv22ssportt1-channel-unkn.png",
         "NhomKenh": "SCTV",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv622&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0suW8jlnV",
-        "TimeUpdate": "2026-08-19 11:46:14"
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv622&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.165&pkg=pkg32.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0suW8jlnV",
+        "TimeUpdate": "2026-08-19 14:50:03"
     },
     {
         "id": "83",
         "name": "TV5 MONDE",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/79/92/2a/a7/76/64/792a7-ptv5monde-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/79\/92\/2a\/a7\/76\/64\/792a7-ptv5monde-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.169/clrlive_10.m3u8?c=vstv245&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VZ2uyhHm",
-        "TimeUpdate": "2026-08-19 11:46:14"
+        "url": "http:\/\/123.29.76.169\/clrlive_10.m3u8?c=vstv245&q=high&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.169&pkg=pkg33.hni&location=TS&rbk=17216241101&pnode=172.16.65.68&isp=vnpt&rkey=454368T0VZ2uyhHm",
+        "TimeUpdate": "2026-08-19 14:50:03"
     },
     {
         "id": "857",
         "name": "Vietnam Today",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a8/80/03/34/47/7d/a8034-pvietnamtoday-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a8\/80\/03\/34\/47\/7d\/a8034-pvietnamtoday-channel-unkn.png",
         "NhomKenh": "VTV",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv651&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.168&pkg=pkg33.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0DDQYRPZO",
-        "TimeUpdate": "2026-08-19 11:46:14"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv651&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.168&pkg=pkg33.hni&location=TS&rbk=1721624151&pnode=172.16.65.68&isp=vnpt&rkey=454368T0DDQYRPZO",
+        "TimeUpdate": "2026-08-19 14:50:03"
     },
     {
         "id": "866",
         "name": "Hollywood Classic",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/61/1d/da/a1/11/17/61da1-phollywoodclasic-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/61\/1d\/da\/a1\/11\/17\/61da1-phollywoodclasic-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.166/clrlive_10.m3u8?c=vstv653&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0y4cWVkTf",
-        "TimeUpdate": "2026-08-19 11:46:14"
+        "url": "http:\/\/123.29.76.166\/clrlive_10.m3u8?c=vstv653&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=2&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.166&pkg=pkg33.hni&location=TS&rbk=17216241108&pnode=172.16.65.68&isp=vnpt&rkey=454368T0y4cWVkTf",
+        "TimeUpdate": "2026-08-19 14:50:04"
     },
     {
         "id": "869",
         "name": "Woman",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/13/36/68/81/1a/ac/13681-pwomen-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/13\/36\/68\/81\/1a\/ac\/13681-pwomen-channel-unkn.png",
         "NhomKenh": "In The Box",
-        "url": "http://123.29.76.164/clrlive_10.m3u8?c=vstv654&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T0S7awaeF1",
-        "TimeUpdate": "2026-08-19 11:46:15"
+        "url": "http:\/\/123.29.76.164\/clrlive_10.m3u8?c=vstv654&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=2&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.164&pkg=pkg33.hni&location=TS&rbk=1721624145&pnode=172.16.65.68&isp=vnpt&rkey=454368T0S7awaeF1",
+        "TimeUpdate": "2026-08-19 14:50:04"
     },
     {
         "id": "9",
         "name": "HTV4",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/19/97/7b/b6/60/0c/197b6-phtv4-channel-unkn.png",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/19\/97\/7b\/b6\/60\/0c\/197b6-phtv4-channel-unkn.png",
         "NhomKenh": "HTV",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv089&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0QkJRK1qI",
-        "TimeUpdate": "2026-08-19 11:46:15"
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv089&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0QkJRK1qI",
+        "TimeUpdate": "2026-08-19 14:50:04"
     },
     {
         "id": "90",
-        "name": "\u0110\u00e0 N\u1eb5ng 1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/20/0f/f8/8e/e2/28/20f8e-pnng1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.168/clrlive_10.m3u8?c=vstv332&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T01c1Sn9ld",
-        "TimeUpdate": "2026-08-19 11:46:15"
+        "name": "Đà Nẵng 1",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/20\/0f\/f8\/8e\/e2\/28\/20f8e-pnng1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.168\/clrlive_10.m3u8?c=vstv332&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.173&hc=ctl21&sl=6&drmsrv=ctl21.mytvnet.vn&naddr=123.29.76.168&pkg=pkg31.hni&location=TS&rbk=17216241102&pnode=172.16.65.68&isp=vnpt&rkey=454368T01c1Sn9ld",
+        "TimeUpdate": "2026-08-19 14:50:04"
     },
     {
         "id": "95",
-        "name": "\u0110\u1ed3ng Nai 2",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/a7/7f/f9/97/7e/e7/a7f97-pngnai2-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.167/clrlive_10.m3u8?c=vstv330&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=17216241106&pnode=172.16.65.68&isp=vnpt&rkey=454368T0wGstUJYt",
-        "TimeUpdate": "2026-08-19 11:46:16"
+        "name": "Đồng Nai 2",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/a7\/7f\/f9\/97\/7e\/e7\/a7f97-pngnai2-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.167\/clrlive_10.m3u8?c=vstv330&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.172&hc=ctl20&sl=6&drmsrv=ctl20.mytvnet.vn&naddr=123.29.76.167&pkg=pkg33.hni&location=TS&rbk=17216241106&pnode=172.16.65.68&isp=vnpt&rkey=454368T0wGstUJYt",
+        "TimeUpdate": "2026-08-19 14:50:04"
     },
     {
         "id": "96",
-        "name": "\u0110\u1ed3ng Th\u00e1p TV1",
-        "logo": "https://s2129196.cdn.mytvnet.vn/vimages/dd/d2/20/00/04/47/dd200-pngthptv1-channel-unkn.png",
-        "NhomKenh": "\u0110\u1ecba Ph\u01b0\u01a1ng",
-        "url": "http://123.29.76.165/clrlive_10.m3u8?c=vstv215&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ke0dYfGU",
-        "TimeUpdate": "2026-08-19 11:46:16"
+        "name": "Đồng Tháp TV1",
+        "logo": "https:\/\/s2129196.cdn.mytvnet.vn\/vimages\/dd\/d2\/20\/00\/04\/47\/dd200-pngthptv1-channel-unkn.png",
+        "NhomKenh": "Địa Phương",
+        "url": "http:\/\/123.29.76.165\/clrlive_10.m3u8?c=vstv215&q=hd&deviceType=27&userId=454368&deviceId=&type=tv&p=0&zn=netb2c&ctl=239.174&hc=ctl22&sl=6&drmsrv=ctl22.mytvnet.vn&naddr=123.29.76.165&pkg=pkg33.hni&location=TS&rbk=1721624176&pnode=172.16.65.68&isp=vnpt&rkey=454368T0ke0dYfGU",
+        "TimeUpdate": "2026-08-19 14:50:05"
     }
 ]
