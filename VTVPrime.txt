@@ -1,1 +1,1002 @@
-null
+[
+    {
+        "TenNhom": "VTV",
+        "id": "a7f4cd4a-c8eb-4ef3-99c5-6f66f9298413",
+        "title": "VTV1",
+        "logo": "https://img.vtvprime.vn/i2-d3vR_HFlY9nspWzAlYpqVYI9C9PIn9Duzpj_EjtE/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2ZlMDdhZmQtYzIyZS00M2QwLTgyZTgtOWNkMGUyYTc3ZTRkLnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_HLSDRM1/VTV1_HD/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "7894b0a9-5b21-44e7-bb4a-b976b204058f",
+        "title": "VTV2",
+        "logo": "https://img.vtvprime.vn/HXz0FOnKpZOePTg_-fULrE1qaUSsi2Ds7wQb9gYoAp0/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzQ3ZjcwZWItYzZiYy00OGMwLTg0ODQtMTVlNjdjZWU1ZDYxLnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV2_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "d9ea26c2-a96d-4ac5-a336-e8249387a0e5",
+        "title": "VTV3 50fps",
+        "logo": "https://img.vtvprime.vn/lmNFubADyQyHudYHFv5dWyzajIOBzPgcca-v3wOPWT8/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWJjNDJiMzAtN2ZjNS00Mjg1LThlOTUtY2VhNmVjMjkxMjI2LnBuZw==.png",
+        "url": "https://livevliatmcdw.seenow.vn/live/data8/VTV3_HD/Live_DASHDRM/VTV3_HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "e6d919d6-b47f-45be-b271-240c95f8215c",
+        "title": "VTV4",
+        "logo": "https://img.vtvprime.vn/5zocgT8o_8htWQq2R91GRDAkzLbtYNJTaClMDx38q1I/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTBlZDc3NjYtYTM0ZC00MWFlLWI1YjMtMGZjM2Q2ODhjNjU4LnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV4_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "0004d662-b39a-4521-b244-c9bc7948f9b5",
+        "title": "VTV5",
+        "logo": "https://img.vtvprime.vn/3rmwV4ha6acMMoJVdTJil-qUuxuBjOJLR_QItehMCiI/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOTQzZDQzMmMtOWZkZC00MWE0LWJiZjUtYWZiZmQ0YWY2YzFiLnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "b1b71e98-ce90-48f5-90e4-100fbaaac0d4",
+        "title": "VTV5 Tây Nam Bộ",
+        "logo": "https://img.vtvprime.vn/g92SeL_j5mbAbzMnbgxPocUPkwdYmZYnX_dqA6BlMkg/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWQ3NjkwNGUtNWFkMi00ZGVhLWFmNzQtZmIyOGFhMDY0N2QzLnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TNB/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "6cebf308-2254-4309-8f46-d86089b55fec",
+        "title": "VTV5 Tây Nguyên",
+        "logo": "https://img.vtvprime.vn/ZaVaM01myU3bGVyOg8fvNj071vOPG9h5vUK7wUqwuPc/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzZjMzBiYWEtMmM1ZC00YTA1LWE0MzQtYzdjMTYzYzlmMGE3LnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV5_TN/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "6d9996a6-50cf-4ba3-870d-66e1f8f990cb",
+        "title": "VTV6 50fps",
+        "logo": "https://img.vtvprime.vn/qJy0jxuB-XouYHdTz8hUtvUdk1Q5rqr5g_thyQdmEXE/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWZjOWEzM2QtMjBkZS00ZTNiLWEwZWUtNTYxZjc5ZTY1M2E1LnBuZw==.png",
+        "url": "https://livevliatmcdw.seenow.vn/live/data8/VTV6/Live_DASHDRM/VTV6.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "44b242b2-d6d8-4673-a20d-de9b6f1295cf",
+        "title": "VTV7",
+        "logo": "https://img.vtvprime.vn/m3F9PBVsiGFw0Y7cZ0Nd4maK2nrQ2bWxI71rexszidc/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTU1YWM1NjYtOThhNC00MDhiLWI1ODgtMjg3ZDRiMDczYmU2LnBuZw==.png",
+        "url": "https://livezenatm.vtvprime.vn/live/data8/VTV7_HD/Live_DASHDRM/VTV7_HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "d9dd19bf-c30f-4fb6-bd57-3b7fcbddebed",
+        "title": "VTV8",
+        "logo": "https://img.vtvprime.vn/q3tjiprxLd_qzAeLZvl-4Z1jMnsz_1da37d1y0DHpHg/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZGNiMTcxMmUtNDdlYy00ZDUyLTg3MWItNDUyYTRmMzJlYTA5LnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VTV8_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "c49e0f1f-3b2d-42fd-bac1-93ecee8949e8",
+        "title": "VTV9 50fps",
+        "logo": "https://img.vtvprime.vn/pDwE6Jx1Vv9p63TlvmajVK5T7jH0JxZ8rEyN-CyN7ek/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDk0Y2NmZDYtYjZjOS00NDA5LTg2MTYtNzVlZTE5OWMwNzhmLnBuZw==.png",
+        "url": "https://livezenatm.vtvprime.vn/live/data8/VTV9_HD/Live_DASHDRM/VTV9_HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "6f276128-693b-40f2-96c8-ec145a2e931b",
+        "title": "VTV10 50fps",
+        "logo": "https://img.vtvprime.vn/1ArLonYB-PBmcN8Srwt0scSPXDT5zUEllchhw2io5Ow/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGFlMTllZGYtZDU5Zi00OGRmLWIyMDgtZGE3OTQxMzE5NGZiLnBuZw==.png",
+        "url": "https://livezenatm.vtvprime.vn/live/data8/VTV6_HD/Live_DASHDRM/VTV6_HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTV",
+        "id": "fe907823-dde8-473c-8318-735d7c45407c",
+        "title": "Vietnam Today",
+        "logo": "https://img.vtvprime.vn/pbgaazKmSM-hCfhDRob8bR1rMy3rKZ9D4cB31bggVJ8/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTE5YTVjNDYtMTZiMC00ZTUwLTlkNjItZmM1ZTJjZjQ3OTU4LnBuZw==.png",
+        "url": "https://livesct.vtvprime.vn/Live_DASHDRM1/VIETNAMTODAY/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "02efed81-3e71-4328-89dc-667c33fa0e9f",
+        "title": "ON Sports 50fps",
+        "logo": "https://img.vtvprime.vn/crrrgV_I7Vgg-MYpjXk9VT6jyYrRj9J_DWDcGwm1A0o/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzQ2ODU3N2ItZDllZC00YzQxLThhODEtZmNmNzc1YTkxYjIzLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM2/THETHAO_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "89c43288-fd89-49f6-bfc2-2d975489b3cd",
+        "title": "ON Sports News 50fps",
+        "logo": "https://img.vtvprime.vn/2B4P2ma_1IQfDubOOifvqXo5DBYO02rOmhqXsKcH3hk/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDI1OWVkYzYtMzYwMC00ZjU0LWE2MmUtZDdhMzc5MTY5M2FlLnBuZw==.png",
+        "url": "https://livevliatmcdw.seenow.vn/live/data8/THETHAO_TINTUC_HD/Live_DASHDRM/THETHAO_TINTUC_HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "cd9f48be-2e7e-47b5-9aaf-c3964b240a13",
+        "title": "ON Sports+ 50fps",
+        "logo": "https://img.vtvprime.vn/lADQ_rO_nABdAkne8asD7n2GYsHChTrAkBvX33cOE1A/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDkxYzkxNDItOWEzZi00MDNmLWExOTMtZDdkZGIzYmM0MzI1LnBuZw==.png",
+        "url": "https://livevliatmcdw.seenow.vn/live/data8/HAY_TV/Live_DASHDRM/HAY_TV.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "254fa217-2825-4454-b390-2890948c4107",
+        "title": "ON Football 50fps",
+        "logo": "https://img.vtvprime.vn/PcvTxFqCQqePd7vASs_ngGDfB28h9MWNH7xeBS-B0tY/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2U0YzQwOTItYmM4OS00ZTU3LWI3MTUtNGU5ZTkzZjA4NmIyLnBuZw==.png",
+        "url": "https://livevliatmcdw.seenow.vn/live/data8/BONGDA_HD/Live_DASHDRM/BONGDA_HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "ec70913e-637a-4250-be17-e173ab5ed50c",
+        "title": "ON Golf 50fps",
+        "logo": "https://img.vtvprime.vn/r5N4IRNo8e5Bt4zJbhITdI1KegeZUv-00t3BqODdE4M/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjkzNWI3ZWEtMTNiOS00MjUyLThmYWYtZWRlMWUzNTE0MmJkLnBuZw==.png",
+        "url": "https://livevliatmcdw.seenow.vn/live/data8/THETHAO_GOLF_HD/Live_DASHDRM/THETHAO_GOLF_HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "008fd68f-2d02-487e-bf9d-df4fae0cc843",
+        "title": "ON Vie Giải Trí",
+        "logo": "https://img.vtvprime.vn/VchyigEZ6-0k6KDnNxI_IDJNHp-LtTL3TkYa1xeHSPo/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZjVhZDhkNmItMTQ4NS00YjYxLThhMDEtNTdiYzBiMjU2NGU1LnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/GIAITRI_TV_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "2c874ade-48a3-47e5-b7d7-e5e2da825dee",
+        "title": "ON Vie Dramas",
+        "logo": "https://img.vtvprime.vn/iEsycYg5lMHqSRPWiQk2aJgoFmvhsdtVCy4NP_v1q14/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmExZjgwNGYtNjc0Yi00ZjYzLThjZWMtNjgwN2NkNThhYTRkLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/D_DRAMAS_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "4a19f0b1-0e5d-4caa-acc0-87f80304bb8c",
+        "title": "ON VFamily",
+        "logo": "https://img.vtvprime.vn/9A1Skx8xp-e75rmCM3b502NtSA7t4MlwzTg5dfMpxMs/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGI0YzYzOTgtNWJiOS00ODQ1LWE1ZjMtZTdhZTM5ZTc4NzVmLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VFAMILY/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "1069f19f-56b4-46e6-8482-666f34dc432b",
+        "title": "ON Movies",
+        "logo": "https://img.vtvprime.vn/wkKRNmdNkWAtadkjMnCoCRhdHzPoDDNMOtJ9wD4x_yE/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWQzOTEzNjgtYTJmNy00NDBkLWI0N2ItNzA2MDliNjJmNDYzLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VAN_HOA/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "0c935fe8-9b2b-46c1-8ba0-2149466fbe8d",
+        "title": "ON Phim Việt",
+        "logo": "https://img.vtvprime.vn/oaLK24VjIWwwHXLHDrt1uLRIwP5__hfqucmyS00rqWM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTc3YzdkNmItZTVhNi00ZTkyLWIzYzUtMGEzMTkyZjIyM2RhLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/PHIM_VIET/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "2a83e8c6-2062-43eb-8953-c0d245b62b11",
+        "title": "ON Cine",
+        "logo": "https://img.vtvprime.vn/fSCogegd0AW4IPg45SNbPsc9QzowYRheXzkxD3YNFcU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDY5YjgyNmUtNjkzYi00YzBiLWFhZmYtNmFhZGFjZjFhZDA0LnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/FILM_TV/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "c980903f-8d0e-43b6-81a2-27b4265fccaf",
+        "title": "ON Echannel",
+        "logo": "https://img.vtvprime.vn/UsAWDkSG8cbS9J_AcEnMDImtkR2XX7yiX2fFR3BI1f8/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTk3YjgwOGUtNjI3OS00NWQ4LWJkMTAtNWY1MGE1MjIwMTZkLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/E_CHANNEL/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "70712f19-72c6-4e2f-bb0e-4f63ba54799f",
+        "title": "ON Style TV",
+        "logo": "https://img.vtvprime.vn/Dko87W2ryNe8jpOCzo-toxz_EalLNV41SPn1v3vdQIE/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTcyOGM3MzEtOWE4OS00ZjljLTkyYTItMWVhODZmNzhiOWE4LnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/STYLE_TV_HD/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "42947c3f-d95f-4c58-b9d6-706d1096b58f",
+        "title": "ON Trending",
+        "logo": "https://img.vtvprime.vn/50GSd5xkLJx_rnWWGSSeaXGVrfp64B-Mubs-eiIViOA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGZjNzVhY2EtYjZhYS00MjYwLWIwMDMtZDRkYzg4OWI4ZGNkLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/YEAH1_TV/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "8a376535-e9ff-4ab9-9620-eba2e80cffe9",
+        "title": "ON Music",
+        "logo": "https://img.vtvprime.vn/Kf-tqUxFML-xVRz_O4yrdzw84k5JU1Ggz5OFRFYaT6Y/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2RmOTYzYTYtZWRkYS00MDdjLWIxYmYtYTAwODBhMTUyYTNlLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/M_CHANNEL/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "f6a58743-0154-460f-b134-c556be12add9",
+        "title": "ON Bibi",
+        "logo": "https://img.vtvprime.vn/ipIjSIWWy454hRG4tOZ_9_xmDaW5gBShReUvryUaN5I/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzI3NWExNmEtNTMwOS00ZWE3LWJjMjMtYTMyNGIwZDczNGJlLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BIBI/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "0ad53c2a-cc17-4bf1-82fe-cf1d1a239167",
+        "title": "ON Kids",
+        "logo": "https://img.vtvprime.vn/3D_dKeoDpZjZWCzajMa-sQkBLS4r2tgkOh_Z8TdO4Gg/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGFlYmUzZGMtODZmYS00NGFkLTlhNzUtODg5NmFkODZhNGI3LnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BIBI_PLUS_clear/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "e442d049-8932-4e24-82e4-2c30dcf3d35d",
+        "title": "ON Homeshopping",
+        "logo": "https://img.vtvprime.vn/4XC_3W--kS0pW9YgOrFc9XkBUCz_Btp5t976rxvaFVA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjM3MDI4YTYtMmYwOC00ZmUxLTlhNTMtNjBmOGZjNmQzYzRlLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/VTVCAB13/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "f83a8f73-0581-4d5f-bb0a-f7bf5fc532b3",
+        "title": "ON Life",
+        "logo": "https://img.vtvprime.vn/blqhqJGz05Z2boOEys7RtfCu1-Z7YU7g2Vt022cl1KI/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvY2U2MWMwZGEtMWI1Zi00ZWJiLWE4ZTktZjdmZTVkNzRlODhmLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/LIFE_TV/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "6a34e062-8813-4a89-a7d9-a6a6f6f05927",
+        "title": "ON O2TV",
+        "logo": "https://img.vtvprime.vn/QYuSTyjSLuXj8Aho93BGi6vDMHVCEzE5WE0ahCCHSOU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODAyNGIwMDQtNGJiNC00M2Y3LWJkYmEtYmU0MWVkMGY0NjM4LnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/O2_TV/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "VTVcab",
+        "id": "6ab7a9ad-0263-4366-98e1-1e6498519fa5",
+        "title": "ON Info TV",
+        "logo": "https://img.vtvprime.vn/63US8dZNSQ4fO42hUMFKW_y-I-L78Ry-2DXg5duCTSg/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2E2NzM5NzQtNzRhYi00MjYxLTg2M2QtZWE2YzUyNzU5YzcyLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/INFO_TV/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "fa894d38-3358-4ec3-b2a7-e0904fa95399",
+        "title": "HBO",
+        "logo": "https://img.vtvprime.vn/v0CySfjW2Tv5RTktMUHHA6rOijy39Uz6B0jSVqvLOCQ/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGE2ODkzYjYtN2ZmNy00ODMxLTk3NGQtOTU3Mzk0MGM5MmIxLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/hbo.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "df6c952f-df5b-4f28-bc97-0f672196850e",
+        "title": "CINEMAX",
+        "logo": "https://img.vtvprime.vn/f6W3X0pTkZf_X_ABXnTOdmOxVUHiSq8pvjz6BNPrn_c/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTllZmE5NDAtNWIwZi00MTk3LTgyYTAtZmIxNzQ4YmMxMGE4LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/max.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "1f9ef077-c9b7-4aa1-b704-21563a301023",
+        "title": "WARNER TV",
+        "logo": "https://img.vtvprime.vn/4yC2c60RlEYd-L9N7lpBCrYLj25xg2pxN5wVw61tC0I/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTYyNzkyOTktMDFlNS00MzYxLWJiZGUtYjliODU0YTYyZjQ5LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/wtv.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "1f7680f9-fa64-4f1a-9978-1b6573998244",
+        "title": "CARTOONITO",
+        "logo": "https://img.vtvprime.vn/ph9Ru3uGNyCZbHglMheGBnBbUM2VaZUTzG5ubWrs95E/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDA5YWYzYjctNjQxNS00NmQ2LWI1ZGMtMjgzYWNjODNhNGY1LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/boomerang.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "a5c525fe-3758-47e6-a6f6-a701f38b7d0b",
+        "title": "AXN",
+        "logo": "https://img.vtvprime.vn/HOJW93x72_kXOnP75RP1pNRJE5thedDANh1Z8FpiaNM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYTVlMDU2NDgtMmUyZS00ZTE2LTg3Y2YtY2VjMjZmN2IxMzg3LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/axn.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "2758e516-749b-4002-9427-0cdd5b2f0a76",
+        "title": "FASHION TV",
+        "logo": "https://img.vtvprime.vn/Jj7Vk-sRFyIK8m_VD6Cv8qxK22lx3AInxSxScAi0oUk/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDI4MmRlNDItZGU3Yi00YzQxLWExNmMtM2EwZjUxZmE4OTFlLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/ftv.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "e234b4bc-d7d2-4451-92c1-28a640da7082",
+        "title": "CARTOON NETWORK",
+        "logo": "https://img.vtvprime.vn/Wtkq1ZB3R9v5mw191FLJ0qKKgqhpQ_fLShsCxgOPZrk/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWVlMWE1MGYtMzc3My00NTYwLWFiNTctY2E4NGJjYTZiNDYzLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/cn.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "b6c2c8a2-e7b6-483a-98dc-1aedd1638ad0",
+        "title": "ANIMAL PLANET",
+        "logo": "https://img.vtvprime.vn/wSROskc-hBX4Ri6D0nDBPqi9WR0eU_jLfG62ExsmcwI/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMThiYjEzM2EtYWFmMS00OWZjLTg4MGEtNzExYzI1NjMzZWI0LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/ap.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "d291d76c-c05e-4ef0-be6f-9b771d960032",
+        "title": "BLOOMBERG",
+        "logo": "https://img.vtvprime.vn/p-w5XXUXJmZwe8IahcEK68-e73geU8eQT8-0E_FSR2Q/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDY0ZDRhZDMtMjA1My00YjI4LTg2ZGMtOWEwZDU5NzI3Mjg5LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/bloomberg.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "9e65f4e1-1e90-484a-8df3-672fe8fffbf3",
+        "title": "DISCOVERY CHANNEL",
+        "logo": "https://img.vtvprime.vn/UoPjUsrCVn8ggRMCOOqoiX0nDSC_0ATZ-fnTrS6EYwA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvY2Y4MGNmNWUtZjdhMS00NzFiLTgxNjAtN2M0MWRhMTBkM2E0LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/dsc.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "b8325f38-882b-41b7-84c0-c38294ae916f",
+        "title": "TRAVEL & LIVING",
+        "logo": "https://img.vtvprime.vn/_6qJlT33fiKTDKceyCzCLeSe_ePUKHNYfJN9QattnBM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2IyOTBhNTAtYjhhMy00ZGMxLTkxODgtMzY5MTJjZDM1YTg3LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/tlc.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "d559aa7f-9f6c-4a51-9999-90547c5e7332",
+        "title": "CNN INTERNATIONAL",
+        "logo": "https://img.vtvprime.vn/j-MtwP9tyQCpzyakAQP3TtnBd7TDbYfpLVO8ah9DI5s/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTJlODM0YmItNDIyZC00M2JjLWE4ZDgtOWRkNjg3MmFlMmM0LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/cnn.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "f762aa9f-459e-4e48-b419-10b1babd1bbb",
+        "title": "BBC EARTH",
+        "logo": "https://img.vtvprime.vn/K-so4Nf1YtMdmKLr7ixvD1jR5KYp_N1C4bKp3T8Aofg/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZmZmNmI1YjMtNmI3MS00ODg0LThiOTQtY2MwMmY0OTJkZTcxLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/bbcearth.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "0a6907fd-8b8a-48e1-b52a-080a4df10506",
+        "title": "BBC LIFESTYLE",
+        "logo": "https://img.vtvprime.vn/5zWAWDfSG85Y1qAhHXXSAYwQqvQzYhmsZO0YQZYXVuA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYTFmNGEzNzctMzc2NC00OWU3LTlkYjctMDZkMWI5MTViNjgzLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/bbclifestyle.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "fbc5ab48-cbb1-4f74-9e5f-cc4b0fa5dbfe",
+        "title": "CBEEBIES",
+        "logo": "https://img.vtvprime.vn/m0NeyLcpDyKlGuCp6lKlOo9in0dMgAQn_JPFaoT2Tpc/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWFmMGJkN2QtYjg4Yi00YjJmLTgyNjYtMjM5MDA1M2E5NjA2LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/cbb.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "aabef659-8e2b-4989-a407-a877421c0c7f",
+        "title": "CINEMAWORLD",
+        "logo": "https://img.vtvprime.vn/YCy_QCgar5t4yic06Yi7Wphna5ovuxr6VwP7ET02u3g/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvN2QxZjJmODItYmE0Ni00NTIxLWI4MjctODA2NTBmZTllMWI0LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/cinemaworld.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "ea59fb31-7ad5-4466-b2ce-f8b77e55be7d",
+        "title": "DISCOVERY ASIA",
+        "logo": "https://img.vtvprime.vn/7ygQqbyOsuqHZu-A_rurNlrY-vTPTOUKkLadn23BVy0/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNmM5MGY3OTctMzFhOS00MzI1LTllMzktMGQwYjczMmIxZDczLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/dscasia.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "fafdae3e-1c45-4e5e-973c-b059b9d31399",
+        "title": "BBC WORLD NEWS",
+        "logo": "https://img.vtvprime.vn/sVtaTr41v2xGPNOl3kfCYxAu3fYKFK0DyqorE1RK6Cc/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzQ0YzUyZWQtODNiMS00YmFmLWIwOTItMWUzM2E2Y2Y3MmQ4LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/bbcworldnews.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "4082ce62-5fb2-4b9c-a8c1-7d1109b1df80",
+        "title": "ABC-AUSTRALIA",
+        "logo": "https://img.vtvprime.vn/cg1xbNmNG_6HMRwWgVu6SV6svRlLH0c9BIJXmm-uifM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYTBkYWE0YWYtNzBiNi00ZmU3LWE1ZDktODg5ODYwMjY1N2ZmLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/aplus.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "c7d04e4f-2583-4345-8a7f-973479fb9989",
+        "title": "DMAX",
+        "logo": "https://img.vtvprime.vn/ESwSERQSXJENnt5vvmsrAWqqm_oabyCmP26J37kxQ9Q/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTZjMzE0YzEtMjFmMS00ODRkLWJlMWQtMGNlZTMzMTU2YzY5LnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/dmax.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "Msky",
+        "id": "2d638acb-8b21-4a06-adb8-6dad65ad08c0",
+        "title": "DREAMWORK",
+        "logo": "https://img.vtvprime.vn/4JW9a48ZRzvhi-qK5kuCQNqAEi2xKHmG_ZjZ93y7Eb8/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzFhYTI1YmEtOTMzOS00ZWRkLWI1NDQtOWI1NjliNDg3NmIwLnBuZw==.png",
+        "url": "https://livemsk.vtvprime.vn/live_dzones/dreamwork.smil/playlist.m3u8",
+        "drm": true
+    },
+    {
+        "TenNhom": "BOX",
+        "id": "07eca139-6a33-4cb5-a47e-7d6cb2d13a79",
+        "title": "Box Movie 1 HD",
+        "logo": "https://img.vtvprime.vn/gFDESu0bUDzJMOXO_IpC3hDfoI6fcr_oi05s8uPdyEw/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDFjMjZjMjktZjA0Ni00YTYxLTljODEtYjQ2YWE3YmU3YmZiLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BM1/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "BOX",
+        "id": "e4924499-e494-491b-acf1-f5ca7bcad1b8",
+        "title": "Box Hits",
+        "logo": "https://img.vtvprime.vn/nZXD9JtpchcGd4stvS8mJBkaKXz1k7twlNDECrhFn7Y/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDFjNjI3OTItMjkyMy00NTRmLWI3YjgtZDBmNzAxNDhjZWM3LnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/BOXHIT/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "BOX",
+        "id": "b13a3841-7d65-46c7-9d60-0be06b536884",
+        "title": "Hollywood Classics",
+        "logo": "https://img.vtvprime.vn/0JNGrVo56zeuA7kuV0ixzJFBHZsCl336CHBe6Lb93wU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGJjYjU3ZDEtMTQ5ZC00ZDhjLWEyOTYtYmE4Y2MzZWJjZTcyLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/HC/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "BOX",
+        "id": "38724354-ed95-4dbd-8a9b-bf4a4ba559d6",
+        "title": "Woman HD",
+        "logo": "https://img.vtvprime.vn/9pN8J_fk8s38Ji29EMpUN08FqZCVASzNAAy2UZ-4MTA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTU3NjVhYzQtMjI0OC00OGJmLThmNjEtOGNiOTJhMGZjODRhLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/WO/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "BOX",
+        "id": "bda52f96-999b-4117-a744-5a818972a666",
+        "title": "Music Box HD",
+        "logo": "https://img.vtvprime.vn/dNNh8Dj1FlVawKkjFRfafhmDpzk-orsE1L6Qq8D3QNs/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGFhY2M3MGMtNWUyOC00MTI1LThiNDUtMjk3ZjI2OGYzMDRiLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/MUSICBOX/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "1a8afdc2-181a-4c48-8e41-61411a81ce64",
+        "title": "SCTV1 Hài",
+        "logo": "https://img.vtvprime.vn/t6WPrJaKwMspRtcubRfmWbrYuI0m_bzGinL4PKrkKxo/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODJkMDYzOTQtZmEwYi00MWI3LWIzMTYtOWMwMDNkNDBjNjExLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV1/Live_DASHDRM/SCTV1.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "f77115d6-aeca-4cb1-89c2-f496d7a33479",
+        "title": "SCTV2 Today TV",
+        "logo": "https://img.vtvprime.vn/InVfvJTvM5CVQEkbNN6xvj1XlT-asbpUJCY7YW83TDU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjE3ZWExZWYtYzFhMS00NWY0LTg3MzEtM2Y1ODhkZmE0OTBhLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV2/Live_DASHDRM/SCTV2.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "04eeddbd-2739-44a5-9332-fe2411956c41",
+        "title": "SCTV3 Kênh Thiếu Nhi",
+        "logo": "https://img.vtvprime.vn/RXAqdMZOjW7gIKoiRdb3UMQNNFN23C0bNrI9RLT5TrU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2I4OTk1YzUtMjI1Mi00ZDcwLWI1ZGMtZTdiZDk2YjBlOGIyLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV3/Live_DASHDRM/SCTV3.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "f2403a68-ed7c-448a-adf1-3b5cf1a88eb3",
+        "title": "SCTV4 Let's Việt",
+        "logo": "https://img.vtvprime.vn/DABkfGeoMFiBPP3f0Tz2JnXJ30mkfUjiWdSknqSuhOI/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNGM4MzMzNWEtZWVkMS00ZDI4LTg5YWYtNThmY2U3NWM2ZDExLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV4/Live_DASHDRM/SCTV4.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "e4f32333-134d-491c-84cb-dddd37d8fa77",
+        "title": "SCTV6 Giải Trí Thế Hệ Mới",
+        "logo": "https://img.vtvprime.vn/ubPZqPdwUwfPbiY9IfhBfl2zP6HmMlZHGB0lcAoFjHM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzkzNzFlNDgtYWQxYy00NTJhLThiMjItNjUyNzZlYTE2OTJlLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV6/Live_DASHDRM/SCTV6.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "02bc807c-ab97-41ec-be63-4b8e37a3d649",
+        "title": "SCTV7 Sân Khấu",
+        "logo": "https://img.vtvprime.vn/ON6sZlHksoUpEgEe-mSiQJnqT5ZpyrGgrW9xWiwnSik/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjlhOWYyZTItODAxZi00MWY2LWI4N2MtZjBjNTgzNzgyMmRhLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV7/Live_DASHDRM/SCTV7.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "cdce6430-bfcb-4888-9b98-71e5fdf8e470",
+        "title": "SCTV8 Kinh Tế Thị Trường",
+        "logo": "https://img.vtvprime.vn/e8rthMfitjbThCVUcUJqvOV8xQxiEBshJ6OnJfgSr38/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYWRlZTMxMDAtNmU0Yy00NmNlLTliODItZjQwMTgzNWJkY2VjLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV8/Live_DASHDRM/SCTV8.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "b2301801-9eae-4a76-b3b8-9bbfeb68d29d",
+        "title": "SCTV9 Phim Châu Á",
+        "logo": "https://img.vtvprime.vn/TXetj2Sfx0EsFnFSogPKtfedCW66Z2IEPBNSDuOdDSc/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWU0MTFjMjEtNDdmNy00YjA0LWE1Y2MtOTcwYzBhMDFiYzM5LnBuZw==.png",
+        "url": "https://livesctvng.vtvprime.vn/mean/SCTV9/manifest.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "0fb5a217-948b-42ca-91b0-a193bf618a77",
+        "title": "SCTV11 TV Star",
+        "logo": "https://img.vtvprime.vn/2SgYQPFLb9WzqyuyyRuNY96hoai3sQPJuOq5nLE2xXc/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjRmNDYwNzgtZjcxNy00N2U3LTk3ZjUtYTBlYjkyNGRmYTZmLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV11/Live_DASHDRM/SCTV11.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "1c995bb3-c7e3-483b-b0b8-70bcaca4bea9",
+        "title": "SCTV12 Du Lịch Khám Phá",
+        "logo": "https://img.vtvprime.vn/xomJGp40mAUS3LZrcWA5JpbozFeUyt6KncKRLCsl7KY/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjM0MmI2NGYtNDkxNC00NDFlLTk3YTEtZGJlMmE2ZGIxZDJmLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV12/Live_DASHDRM/SCTV12.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "d39d74c3-919d-4d1d-8ce9-af3b62faf997",
+        "title": "SCTV13 Phụ Nữ & Gia Đình",
+        "logo": "https://img.vtvprime.vn/RbBKXMynbrb47sw3DxhKNL5O5HTCnnZVQ49qyB89JhQ/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTRlNWVlNmItZWQyNi00NjNmLWJkM2MtYWIxZmVjOWY1Y2FjLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV13/Live_DASHDRM/SCTV13.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "89044024-ab75-4e5f-a964-37cb67333d64",
+        "title": "SCTV14 Phim Việt Nam",
+        "logo": "https://img.vtvprime.vn/oCTtpfGpnsnzOvTP7SrBx_jolMCV8IhVpveBjcGSOWY/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWJkY2M3MGUtY2VjMy00NWE4LTg5M2MtMWI2NDViZGY4MmM3LnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV14/Live_DASHDRM/SCTV14.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "511bf0c5-ca8e-4b56-a9e4-e53e4de101ce",
+        "title": "SCTV15 Thể Thao",
+        "logo": "https://img.vtvprime.vn/zm_qPy01TfTLzR0kPkZkGQFdVtdDMRrPNHD3VWqAo1s/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZjBhNjlkNTItODA0Yy00YzQzLTllMGQtNDFlYzdiNWE4ODMyLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "3145fc91-9d29-41a5-bb67-35fe00da06cb",
+        "title": "SCTV16 Phim Nước Ngoài",
+        "logo": "https://img.vtvprime.vn/Gcux8dvRSAPNtnapqxW61AAiYnfMnVuhl32tcU__BCA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjQxNTVkMjctY2Y1ZC00ZjgyLTlmNTktNzMwMTQ5M2ZjOGIyLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV16/Live_DASHDRM/SCTV16.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "b42a02d0-0064-4c8f-ac06-128ff1c98157",
+        "title": "SCTV17 Thể Thao & CS",
+        "logo": "https://img.vtvprime.vn/mN-9OxVsGNvmcMpUppST2ab6pkWKGAIu85q6GxD6j5k/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDQ5ODA4NWQtYmUwNC00NDFiLWI2NDYtM2JlMTJkZjBlNGRjLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "1cfde133-9431-419a-84b5-fe17e4ace090",
+        "title": "SCTV 18",
+        "logo": "https://img.vtvprime.vn/B13FnmDzUp3p_cvhzZ6ssT93k1GpOYxiq8EslUymYgM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNWRlNmQyYWQtODY1ZC00MzlmLWEyYzUtNDIwYjI5ZWU4Nzk1LnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV18/Live_DASHDRM/SCTV18.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "e4b71a6d-3be9-4464-a8fb-397a0b401ae3",
+        "title": "SCTV Phim Tổng Hợp",
+        "logo": "https://img.vtvprime.vn/iueO5UmEV_GgYGg8pz7GD6eGwqZSMiutNWeAUKijKuo/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWU5N2QxMzEtM2Q5ZS00ODVmLWFkNzYtODk5YzkzYjQ0YjM5LnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTVPHIM/Live_DASHDRM/SCTVPHIM.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "789e2981-ade9-46f4-8468-c98a64e8873f",
+        "title": "SCTV19 Kênh Thiếu Niên",
+        "logo": "https://img.vtvprime.vn/JZqamADEKsYLnKP9Xt9cCa1_vKLkAbmIIqCcTKuzcVM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTJmZGY1N2ItY2FhYi00NzkwLTk5ZDgtYmVjZWMwOTdhMzgwLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV19/Live_DASHDRM/SCTV19.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "120518f0-c577-4995-8e99-7b43ad00ddcf",
+        "title": "SCTV20 Kênh Ca nhạc",
+        "logo": "https://img.vtvprime.vn/hZc55wQn2Myy9wWtsOUD31mhfGR-pI4QjIsAqHurKto/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzNlZTRlMTYtM2I0MC00MTdjLTlkOWUtZWI3OWQzYTY5MjgzLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV20/Live_DASHDRM/SCTV20.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "c648c9a9-c270-4b74-81bd-f3188c8a2fb4",
+        "title": "SCTV21 Việt Nam Ký Ức",
+        "logo": "https://img.vtvprime.vn/5cJxAW3_CwQa9rwkzdH7fv2HwtAaTf628JU-7LpmCbA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYmI4ZjcyYmItZTM4Mi00ZjU2LTgzMTQtNTlhZTllZDY0NjhjLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV21/Live_DASHDRM/SCTV21.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "e8b3487a-9e12-4fc2-9993-4f7291e316e0",
+        "title": "SCTV22 Kênh Thể Thao",
+        "logo": "https://img.vtvprime.vn/tyE4s8765X3vuvw3OH9n6aLeXgGJa6c8MflUVGgGjlU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjk2OTYyYTktOWIwNy00YThmLWE5ZWUtYzY0NmY4YWI2M2Y1LnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "SCTV",
+        "id": "b42dbaf4-c81f-42a1-89c7-70deb131462e",
+        "title": "SCTV5 Shopping",
+        "logo": "https://img.vtvprime.vn/xewhvHwzRZT2UxtrN3uWbHTzOGEjWvxtcqcuv7pF454/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDQzNTBjYzItMzJkMy00MGY1LThlNDQtYjdkY2JkMDZhNzkwLnBuZw==.png",
+        "url": "https://liveatmvng.vtvprime.vn/live/data8/SCTV5/Live_DASHDRM/SCTV5.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "17a278ba-256c-47b3-b5d5-ca3021e72030",
+        "title": "HTV1",
+        "logo": "https://img.vtvprime.vn/F62mqdaKjAYvGRvkOYC8xlXGzYml4pYdwJ8P-z4-vXQ/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMTYyNTE3MWYtYjM5OC00NGVhLWE4ZDktYWM5NzMzMzQ0MGJiLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTV1/Live_DASHDRM/HTV1.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "9cb35ace-7880-4032-9ee8-01780041f16a",
+        "title": "VieChannel",
+        "logo": "https://img.vtvprime.vn/UqHCkmHus3ZVzQHP-U70vZcP4tdBu8_6w4tHY9cdgWk/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNDQ4ZWFhMmUtNjY4Ny00MTNmLWExZjAtZTNmZGQwMDNmMzIxLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTV2/Live_DASHDRM/HTV2.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "fc50b5c1-af9e-49a4-809c-e693cbb98b98",
+        "title": "HTV3",
+        "logo": "https://img.vtvprime.vn/WYmNhexURo4xhGLe8qHuS1dniuMYosaP9ElRe-e1664/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOWZiN2FhM2UtMjZhZS00MjM4LTliODctYmVlODQ0NTE2NjAzLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTV3/Live_DASHDRM/HTV3.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "45360b04-83dd-4453-9a63-f66b8e797a4e",
+        "title": "HTV4",
+        "logo": "https://img.vtvprime.vn/sb-wSPlIeNMBOL4qWu4T0xomyr-fPQJUpZowReckgoU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDZkZjY4ZjItNDZlMS00NWYwLThhYzQtMzRlZjRmY2M4OGQ2LnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTVKey/Live_DASHDRM/HTVKey.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "6d02a74b-211c-4c70-9288-781e45633e3d",
+        "title": "HTV7",
+        "logo": "https://img.vtvprime.vn/OjsXuh0UkXAc4RRxynr1tbM7fweHyzzW0s6JrkrpSg0/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzI3MzAxYjAtNWY5MS00Y2RmLWJkMDAtMmU0YTdiYTc4ODRiLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTV7HD/Live_DASHDRM/HTV7HD.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "c91f94e6-0072-49e4-9a01-d9c8d5bf78ae",
+        "title": "HTV9",
+        "logo": "https://img.vtvprime.vn/mzd-pCPE5SxxL5E3-mbyym9yYmV_Le1AdFPzhPes_sM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWQ3NmQ0NjktZWUzYS00ODQ4LWFkZjctMTk3MmNkMjI0OTQ5LnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTV9/Live_DASHDRM/HTV9.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "92b6c57b-0352-4511-9c8a-58102bcf4f27",
+        "title": "HTVC Ca Nhạc",
+        "logo": "https://img.vtvprime.vn/HvargaKArIU39KzI3jjiPPAAdG_RswWKx6hCxLDdhE8/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjcyZTUzYmItMmI4NC00YTRiLWE3MGUtMWIyM2FiMDZhMTgxLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTVCCANHAC/Live_DASHDRM/HTVCCANHAC.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "4aeaac9d-2361-4bcf-81ca-444e11902b9b",
+        "title": "HTVC Thuần Việt",
+        "logo": "https://img.vtvprime.vn/NHH2c_BCdbkCk1ynUDgnGfihy4w40MGW_6G0A7N3p2M/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTk5OTViYzItOTdmMS00YWNkLWJhYjktMGFiMjk1NTA1MDJmLnBuZw==.png",
+        "url": "https://livebytsct.vtvprime.vn/mean/HTVC_THUAN_VIET_HD/manifest.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "102ac1a4-8958-43dd-95e9-5f2b1f00d437",
+        "title": "HTVC Du Lịch Cuộc Sống",
+        "logo": "https://img.vtvprime.vn/B2Q8a_YVNVouIeeNwaP73punRfHc9-WWuoiyffP3EP4/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDU2NjM1NGUtYTdhYS00MzQxLWI3ZmQtYzllMTk4OTVhZTcyLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTVCDLCS/Live_DASHDRM/HTVCDLCS.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "efde57e9-e02e-4229-89e1-4149faf9aae9",
+        "title": "HTVC Gia Đình",
+        "logo": "https://img.vtvprime.vn/c4cZRItlsmG34vM7go9fzPp_ImZ5ehiqCyedLt98an4/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvM2I2M2RhYjUtYTAxZS00ZWY5LTgzNjUtNTE1MDAwNGVhMGJlLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTVGIADINH/Live_DASHDRM/HTVGIADINH.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "0f00cce5-904f-4b88-9db7-4b10683d261c",
+        "title": "HTVC Phụ Nữ",
+        "logo": "https://img.vtvprime.vn/HUk-JmihEDQNF2fsXET3Iyz2g-y9-XTdJPPLxieqd_g/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYzAzY2VhY2MtYzRlYi00MTM1LTlhYzUtNGM1N2RlMTA3MmUwLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTVPHUNU/Live_DASHDRM/HTVPHUNU.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "0280b682-c010-41a1-9dd1-44dd940a8093",
+        "title": "HTVC Phim",
+        "logo": "https://img.vtvprime.vn/WnHwyKDEZPbaT6SHUTRNrgLwOSmhrpmyS1HLJsNTZqU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODBkMmIzYTYtMmM2NC00OGZkLTg3NGMtOGVhMjdhZmVjMjJjLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTVCPHIM/Live_DASHDRM/HTVCPHIM.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "HTV",
+        "id": "fcd32325-8a97-48d0-a557-8bb76aed0aae",
+        "title": "HTV Thể Thao",
+        "logo": "https://img.vtvprime.vn/hprCrmXyRZoAdK5Ze4QE_ZDvZ-KcFkN1V4Zm9eHv78Y/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYmM2OWVkNDctYTBmZC00YTY5LTlhYmQtMDVjNDY3OWZhMDEyLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HTV_THETHAO/Live_DASHDRM/HTV_THETHAO.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Thiết Yếu",
+        "id": "405f6e77-8aab-4264-9bd3-62e136027883",
+        "title": "ANTV",
+        "logo": "https://img.vtvprime.vn/S25-rWfJQ8_l-Bfd2fUyYSoA8cjhJLRF1XKWYbhi77E/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDdjMDg1MTgtNjBiMy00MDM3LTlkNGUtZjEwNWRjOGIzYTIyLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/ANNINHTV/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Thiết Yếu",
+        "id": "e70a6eae-8014-43d9-ac16-3397712f9fba",
+        "title": "QPVN",
+        "logo": "https://img.vtvprime.vn/VqtzBnZ89J3plLbW3oMvnw4zswbr2bEOsVMy4jJz5kg/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzc0ZjViMTMtMTJiNC00YWM5LWFjOTYtODUxOWUwYWE3ZGJiLnBuZw==.png",
+        "url": "https://livevlisctcdnw.seenow.vn/Live_DASHDRM1/QPTV/index.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "a67cfd04-0507-4c8c-a7cc-e1a92ddd4069",
+        "title": "Hà Nội 1",
+        "logo": "https://img.vtvprime.vn/NBTsZQOEZE6i8S9XRswEDyX2ITklJQPXVDebhue4sM0/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDE5NTY2YWQtODA0Yi00MTc4LTk0ZDctOTcyYjlmMDNhYjA0LnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HANOI1TV/Live_DASHDRM/HANOI1TV.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "c6779e17-1d7f-4f9e-bb04-63666329e8ba",
+        "title": "Bắc Ninh",
+        "logo": "https://img.vtvprime.vn/LsM79iQPykz3GRWbTbpnHgygZQ2VtC7HF2B7KHHiAdU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZWM1MzFjMzgtOTFiNS00MmViLTg5MDEtNWViZmQzNGQyY2Q0LnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/BACGIANGTV/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "682c9d62-05fd-4027-82b5-937a867be33e",
+        "title": "Đà Nẵng 1",
+        "logo": "https://img.vtvprime.vn/7zaCYBBIiSW2Qsu-AJvSTmPaiGBxF4n4gH64JCyJ6Cw/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMzc0NGEwN2YtOWZhZi00ZmNiLWI1Y2QtNDNhZmZiMGYwOTk0LnBuZw==.png",
+        "url": "https://liveh12.vtvprime.vn/hls/DANANGTV/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "a135cae3-aa15-460f-80c7-6fd5b17a7120",
+        "title": "Đà Nẵng 2",
+        "logo": "https://img.vtvprime.vn/dW3uHBiJRmetfDMR2jOeejE0EoRGUa8Yptq48Jq_ROg/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODY4ZDAyMDItMDk1Ni00NzRjLTk0OTItMWM0ZGZlNDBiYThlLnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/DANANG2/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "248efe49-e4a7-4e8c-aef0-e1544c7b16a8",
+        "title": "Đồng Tháp",
+        "logo": "https://img.vtvprime.vn/zGl3DEXE94BiJCaT4gVVeKEOoR9J5NFWfK2vOsSir0Y/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGU1NmYzMjgtYTk0Ny00ZDI5LTkxODAtYzMzZTU1MzMxYzAxLnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "6528c34e-3180-4b6c-8f64-273d34e899a2",
+        "title": "Khánh Hòa",
+        "logo": "https://img.vtvprime.vn/gNjH4iKHneMwmGa5UXylq6S7OoMl1SDhtnmLrFvI4s0/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYTQ1MDZkODEtYzI5Mi00YzE3LTkwZTgtMDVjZDFjZjE1ZjI4LnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/KHANHHOA1/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "9df2f8cf-89ab-410c-8bfb-a8a2cbd7ccfa",
+        "title": "Quảng Ninh 1",
+        "logo": "https://img.vtvprime.vn/5vFONeF_u_RpFtIlYzhRwc2dEqbnvYQIYiB7_x2W4Q0/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDQ5OGYyOWItNDdlMS00ZGFlLThlZTYtZDY3YTc3ZGQ1MzgzLnBuZw==.png",
+        "url": "https://liveh12.vtvprime.vn/hls/QUANGNINHTV/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "19747392-8fa1-4340-92a9-dea9aa6ac918",
+        "title": "Quảng Ninh 3",
+        "logo": "https://img.vtvprime.vn/4dxeevCmPc80QvFpVUqwjhro8gb__aLDeFgIX8SiHE4/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODY2Yzc2OTUtNDYwOS00ODZhLTlhNTUtZDQzODI5YzkzNDg1LnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/QUANGNINH3/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "f8be7dec-78c9-4fd5-b53e-5623a6f3a720",
+        "title": "Hải Phòng 3",
+        "logo": "https://img.vtvprime.vn/jvy_fRL-OJtBDZRypYQS53eJyarNcY3cxqZLx6ktFxQ/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZGRkNDkzMzYtYTZjNy00NDliLTlhYWYtYWU0MDAwMzI5NjY5LnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/HAIPHONG3/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "420e1468-9051-4cab-a06a-f79797dcc4cf",
+        "title": "Hưng Yên",
+        "logo": "https://img.vtvprime.vn/74GnnQN40Or_GlEd5ks3ZTY9U5IzBMj2gqZ0NFurDy8/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYjg2YTM1ZGMtYWYzNS00MGNmLWE2ZjUtMWI1YmE3YTY2NTUxLnBuZw==.png",
+        "url": "https://liveh12.vtvprime.vn/hls/HUNGYENTV/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "82ca7179-bed2-45fc-b1d0-221c18dec095",
+        "title": "Nghệ An",
+        "logo": "https://img.vtvprime.vn/JIED4yd3xP59tAtHN29QHY5lM8vNlvVzopF-Z7IEltI/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMjkyNjA3MDQtMTc1Zi00YTg4LThjY2UtMGJiNjFmNzRkYWY1LnBuZw==.png",
+        "url": "https://liveh12.vtvprime.vn/hls/NGHEANTV/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "7c2803c3-14d3-4f4a-acff-e922e50bf3fd",
+        "title": "Đồng Tháp 2",
+        "logo": "https://img.vtvprime.vn/F1ezb6-Iwd4n6kGJ_hLZ244CScHVQXbpoCjKfgBpPqQ/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNjRjODJlZjQtYTlkMi00NTFmLTkwYjAtZWZjY2VlZTI0N2QwLnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/DONGTHAP2/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "ab359c9c-5976-4f6e-850b-420f2d2f2801",
+        "title": "Lâm Đồng 1",
+        "logo": "https://img.vtvprime.vn/s87vBQdtE_-ihUzRPKBWigCCvte7rN4Q2riq9dJMlOM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNTQ5MzRlMjYtM2E2Zi00ZWUyLThhNjktOWM5OWExMWQ0YTZmLnBuZw==.png",
+        "url": "https://liveh12.vtvprime.vn/hls/LTV1/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Trong Nước",
+        "id": "a99766f8-e7f3-4fef-916c-950aced76103",
+        "title": "Lâm Đồng 2",
+        "logo": "https://img.vtvprime.vn/EK-PwJyKgk0ZOB1mOIwflNIm1JlA-xLiv9JcG4d5JgM/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMDMwNTM5YWQtNTZiMC00NjJkLTg4MmMtNzBkZDk1Y2E0YmViLnBuZw==.png",
+        "url": "https://liveh34.vtvprime.vn/hls/LAMDONG/index.m3u8",
+        "drm": false
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "4ca91f4d-46ec-4aa5-bb0e-b1bdee35abda",
+        "title": "Asian Food Network",
+        "logo": "https://img.vtvprime.vn/objlgZZvDLWlpLKDnkIE-jU1Q8VwvYn4bTXqIsGyQ30/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZDJkMDQzZjUtNTBjNS00YzRhLTk1YWQtNzE3MGQ5MDg0OWUzLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/AFC/Live_DASHDRM/AFC.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "20abe0d7-f89b-4b92-9f0d-09f507cf0ff6",
+        "title": "CNBC",
+        "logo": "https://img.vtvprime.vn/QmD91TDfMcGPx9uqtMz1yneuSQmDluwzgbYslfWVzU8/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZGVhZGFmODUtZDUwNC00YzY2LWFiNmYtM2Y2OGIyMGNkNmMzLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/CNBC/Live_DASHDRM/CNBC.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "f0273d6e-e7eb-4c10-9293-c0ac2d669bc8",
+        "title": "Da Vinci",
+        "logo": "https://img.vtvprime.vn/MjnBKPOlsYU3Y8B9QBfchsoLGldtjhnGMyqOV9lllwU/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWNmOTM5YjMtOGFlZS00ZDg5LTk1N2ItOTQxNmQ2MzNjNDU1LnBuZw==.png",
+        "url": "https://livebytsct.vtvprime.vn/mean/DAVINCY/manifest.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "78679999-2a06-451a-8f79-4abf5ae215f8",
+        "title": "Outdoor Channel",
+        "logo": "https://img.vtvprime.vn/Ye8Z46l2W_usaj-T1q3bigPDbLBkRXmo2rrdV_OaNWA/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvOGQxODYyZjYtYTM2NS00NGNmLWFjZmUtOTllN2ZmYTliYzMwLnBuZw==.png",
+        "url": "https://livebytsct.vtvprime.vn/mean/OUTDOORCHANNEL/manifest.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "2ab0d7fb-a2b9-440e-8738-6eb37d717c99",
+        "title": "HGTV",
+        "logo": "https://img.vtvprime.vn/Zvgx0DfhghJeq7dTMjvu-V4Gv_LOqzkI5jdbie6ZSPY/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvODM0ZDRlZmItZjk1NC00NmVlLThjMjctMmMzNTRjMGJjNjFhLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HGTV/Live_DASHDRM/HGTV.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "532e9f9f-1e26-45ab-855f-23eb43ec0198",
+        "title": "KIX",
+        "logo": "https://img.vtvprime.vn/F2doBgwsD-St60kW4xKeYjpvZ-maT1bx8it41G0q7yY/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMmRjYzBhNDItOGFjNC00YjI1LWIyYTItNzllNzJhNDQzMGIyLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/KIX/Live_DASHDRM/KIX.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "4dccf578-2886-421a-983a-d4329f4b388a",
+        "title": "Arirang",
+        "logo": "https://img.vtvprime.vn/2KuUihnwqL8oAyB8r1SDyXXGGWdgQ4KsWRrHbQbYb9k/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzFkMjcyZmItZDBmZS00MTVkLTk5YzktMzczMjBmMDI5NDhlLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/ARIRANG/Live_DASHDRM/ARIRANG.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "db5f5f18-4830-48df-bec6-d8dc96c6f915",
+        "title": "NHK World",
+        "logo": "https://img.vtvprime.vn/XTj2PsOEhoGG7IDnQ9HIzjHXAEu9JbqmRXD3x2GfEMk/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMGYwZTgwMDgtNmE2MS00NDMxLTk5NzQtMjZjMTkzNWM1YTZhLnBuZw==.png",
+        "url": "https://livebytsct.vtvprime.vn/mean/NHKWORLD/manifest.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "33505630-25a9-4adb-a03e-30e16c78dd7d",
+        "title": "Channel News Asia",
+        "logo": "https://img.vtvprime.vn/vr5GWmXeJATyNUYb-pjBfNNVILgURpWY1vBnwM70f3k/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNGZmY2IxNmItMTcyZS00ZDExLThhYjAtOTE3OWE5OGI5ZmNjLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/CAN/Live_DASHDRM/CAN.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "cc353f88-594c-49cc-96fc-30ee51ba56f9",
+        "title": "DW",
+        "logo": "https://img.vtvprime.vn/s8fXpY6IOQ_ejiD7qbh4vOyFbE6by6YzXw-mRXTL69Y/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvMWQxMmQ4NGUtZTgxZS00NGViLWEwZTUtN2ZmYjZhYzRhM2ZjLnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/DW/Live_DASHDRM/DW.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "6fcea48f-002e-4391-85f0-31319c3c1e44",
+        "title": "France 24",
+        "logo": "https://img.vtvprime.vn/7A4VyzDUlmHMtnstat9j7qFWYZ4eHSdopkpdz-lAPVk/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvYTMwYjBlMGItNWI2ZS00NWEyLWI2ZDctOTFiZmIxMTA0YzU3LnBuZw==.png",
+        "url": "https://livebytsct.vtvprime.vn/mean/FRANCE24/manifest.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "7f8cc9c6-3762-4ef2-b905-91110fb6356a",
+        "title": "KBS World",
+        "logo": "https://img.vtvprime.vn/QY50oLOrBwnz4Ut9WpmsRw1lAb3WV00LsJkaFH5hZWo/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZGY0NmQzMGYtNjBiNS00NzUwLWE3NDMtNDA5OTY5ZThhMzY2LnBuZw==.png",
+        "url": "https://livebytsct.vtvprime.vn/mean/KBS/manifest.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "06de686a-4e5d-4033-9b92-13c90e60fe05",
+        "title": "History",
+        "logo": "https://img.vtvprime.vn/cA8zj0EKHYT8uCrSoxMH5FTylJV5H5TMMDqQY2mdMFE/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvZTYwZjk3MmYtYjMzYy00ZWQ2LTllODMtMjU0ODdmNWVlZDA0LnBuZw==.png",
+        "url": "https://livebytatm.vtvprime.vn/live/data8/HISTORY/Live_DASHDRM/HISTORY.mpd",
+        "drm": true
+    },
+    {
+        "TenNhom": "Quốc Tế",
+        "id": "7413224f-7b09-45ce-a355-96961f7ac0ad",
+        "title": "TV5Monde",
+        "logo": "https://img.vtvprime.vn/k7dbJMMG5ScoDQ2Gl0OMNZ5O0y_PTwPm7dIO8upWNQc/rs:fit:76:76/czM6Ly9wcmQtc24taW1hZ2VzL2NoYW5uZWwvNzY5YmVmMjItNTZiZC00ZTdlLWIyYmItNzI3MDQ3ZjFmNGQ1LnBuZw==.png",
+        "url": "https://livebytsct.vtvprime.vn/mean/5V5/manifest.mpd",
+        "drm": true
+    }
+]
