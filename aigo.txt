@@ -1,8 +1,44 @@
 {
     "ok": true,
-    "http_code": 500,
+    "http_code": 200,
     "response": {
-        "message": "timeout"
+        "status": 0,
+        "data": {
+            "userInfo": {
+                "id": "7D5ENG2ENK",
+                "username": "vu53204@gmail.com",
+                "displayName": "vu53204@gmail.com",
+                "avatar": "https:\/\/lh3.googleusercontent.com\/a\/ACg8ocIVBRZQ4VM1Wn4vaGVpn-ThTqJ75S1621MxRyKe625TOFvnMg=s96-c",
+                "zone": 4,
+                "hasPackage": 1,
+                "isPaid": 1,
+                "isTempUser": 0,
+                "planExpireKeys": [
+                    "planExpirepremium",
+                    "planExpiresctv",
+                    "planExpirevtvsport",
+                    "planExpireworldcup"
+                ],
+                "planExpirepremium": "2026-11-09T14:39:27.418Z",
+                "planExpiresctv": "2026-10-13T10:41:59.073Z",
+                "planExpirevtvsport": "2026-10-20T02:38:16.395Z",
+                "planExpireworldcup": "2026-12-06T11:46:54.866Z"
+            },
+            "personalization": {
+                "playerSettings": {
+                    "quality": "auto",
+                    "subtitles": "off",
+                    "audio": "original"
+                }
+            },
+            "authType": "email",
+            "accessToken": "MSQxNzkxNjc3MDQyJDE3OTE3NjM0NDIkMSQ3RDVFTkcyRU5LJHZ1NTMyMDRAZ21haWwuY29tJDNFMTc0RUU2LUMwMzAtNDgxMy04OERCLTJENjFBRDQzQzZFQSRNb2JpbGUgaU9TIC0gQXBwbGUoMTguNy44KSAtIGlQaG9uZSAxMiBQcm8kMjAyNjA2MDkkMSQkJDk5OSQxJGVtYWlsJHByZW1pdW18VlRWZ28gUGx1c3w0fDJ8MTc5NDIzNTE2NzQxOHxwcmVtaXVtfDF8MSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsOTl8fHwxfGRheXw4fCNzY3R2fERpY2ggdnUgU0NUVnw0fDJ8MTc5MTg4ODExOTA3M3xzY3R2fDF8Myw0LDUsNiw3LDgsOSwxMCwxMSwxMiw5OSwxLDJ8fHwxfGRheXwwfCN2dHZzcG9ydHxPbmUgVlRWIFNwb3J0fDR8MnwxNzkyNDYzODk2Mzk1fHZ0dnNwb3J0LHdvcmxkY3VwfDB8MSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsOTl8fHwwfGRheXwwfCN3b3JsZGN1cHxXb3JsZCBDdXB8NHwyfDE3OTY1NTc2MTQ4NjZ8d29ybGRjdXB8MXwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiw5OXx8fDB8ZGF5fDh8JDAwMDA2NTgxNTMyMyQxJDEkMTEzLjE2MS4yMDcuOTkkMSRWaWV0IE5hbV9DYW4gVGhvX0NhbiBUaG8kNCR2bnB0LmNvbS52biQkMTc5MTY3NzA0MjgyMDM2JCQkdnU1MzIwNEBnbWFpbC5jb20kJDAkMSQxJCRWTg.xU9DkfbEXfEVsxdmE2_0iOtc1XHaHTiothZexgpYv6w",
+            "refreshToken": "MSQxNzkxNjc3MDQyJDE3OTQyNjkwNDIkOTJjNzViMzItM2M5Mi00MjViLTllNjEtMTVjMzVjYmE1MGRmJDdENUVORzJFTkskM0UxNzRFRTYtQzAzMC00ODEzLTg4REItMkQ2MUFENDNDNkVB.0AnAR6fCZ3X6gU8JAk1f7WwHUTTh2c7G3UKCLlZJQS0",
+            "tokenExpire": 86340,
+            "clientId": "000065815323",
+            "clientIp": "113.161.207.99"
+        },
+        "message": "Đăng nhập thành công!"
     },
-    "raw": "{\"message\":\"timeout\"}"
+    "raw": "{\"status\":0,\"data\":{\"userInfo\":{\"id\":\"7D5ENG2ENK\",\"username\":\"vu53204@gmail.com\",\"displayName\":\"vu53204@gmail.com\",\"avatar\":\"https:\/\/lh3.googleusercontent.com\/a\/ACg8ocIVBRZQ4VM1Wn4vaGVpn-ThTqJ75S1621MxRyKe625TOFvnMg=s96-c\",\"zone\":4,\"hasPackage\":1,\"isPaid\":1,\"isTempUser\":0,\"planExpireKeys\":[\"planExpirepremium\",\"planExpiresctv\",\"planExpirevtvsport\",\"planExpireworldcup\"],\"planExpirepremium\":\"2026-11-09T14:39:27.418Z\",\"planExpiresctv\":\"2026-10-13T10:41:59.073Z\",\"planExpirevtvsport\":\"2026-10-20T02:38:16.395Z\",\"planExpireworldcup\":\"2026-12-06T11:46:54.866Z\"},\"personalization\":{\"playerSettings\":{\"quality\":\"auto\",\"subtitles\":\"off\",\"audio\":\"original\"}},\"authType\":\"email\",\"accessToken\":\"MSQxNzkxNjc3MDQyJDE3OTE3NjM0NDIkMSQ3RDVFTkcyRU5LJHZ1NTMyMDRAZ21haWwuY29tJDNFMTc0RUU2LUMwMzAtNDgxMy04OERCLTJENjFBRDQzQzZFQSRNb2JpbGUgaU9TIC0gQXBwbGUoMTguNy44KSAtIGlQaG9uZSAxMiBQcm8kMjAyNjA2MDkkMSQkJDk5OSQxJGVtYWlsJHByZW1pdW18VlRWZ28gUGx1c3w0fDJ8MTc5NDIzNTE2NzQxOHxwcmVtaXVtfDF8MSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsOTl8fHwxfGRheXw4fCNzY3R2fERpY2ggdnUgU0NUVnw0fDJ8MTc5MTg4ODExOTA3M3xzY3R2fDF8Myw0LDUsNiw3LDgsOSwxMCwxMSwxMiw5OSwxLDJ8fHwxfGRheXwwfCN2dHZzcG9ydHxPbmUgVlRWIFNwb3J0fDR8MnwxNzkyNDYzODk2Mzk1fHZ0dnNwb3J0LHdvcmxkY3VwfDB8MSwyLDMsNCw1LDYsNyw4LDksMTAsMTEsMTIsOTl8fHwwfGRheXwwfCN3b3JsZGN1cHxXb3JsZCBDdXB8NHwyfDE3OTY1NTc2MTQ4NjZ8d29ybGRjdXB8MXwxLDIsMyw0LDUsNiw3LDgsOSwxMCwxMSwxMiw5OXx8fDB8ZGF5fDh8JDAwMDA2NTgxNTMyMyQxJDEkMTEzLjE2MS4yMDcuOTkkMSRWaWV0IE5hbV9DYW4gVGhvX0NhbiBUaG8kNCR2bnB0LmNvbS52biQkMTc5MTY3NzA0MjgyMDM2JCQkdnU1MzIwNEBnbWFpbC5jb20kJDAkMSQxJCRWTg.xU9DkfbEXfEVsxdmE2_0iOtc1XHaHTiothZexgpYv6w\",\"refreshToken\":\"MSQxNzkxNjc3MDQyJDE3OTQyNjkwNDIkOTJjNzViMzItM2M5Mi00MjViLTllNjEtMTVjMzVjYmE1MGRmJDdENUVORzJFTkskM0UxNzRFRTYtQzAzMC00ODEzLTg4REItMkQ2MUFENDNDNkVB.0AnAR6fCZ3X6gU8JAk1f7WwHUTTh2c7G3UKCLlZJQS0\",\"tokenExpire\":86340,\"clientId\":\"000065815323\",\"clientIp\":\"113.161.207.99\"},\"message\":\"Đăng nhập thành công!\"}"
 }
