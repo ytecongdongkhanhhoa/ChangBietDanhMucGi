@@ -2,7 +2,7 @@
     "ok": true,
     "http_code": 500,
     "response": {
-        "message": "connection refused"
+        "message": "timeout"
     },
-    "raw": "{\"message\":\"connection refused\"}"
+    "raw": "{\"message\":\"timeout\"}"
 }
